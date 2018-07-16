@@ -1,0 +1,11 @@
+#español##mixteco##ï»¿10 derechos generales de los pacientes##ï»¿Uchi tahan cha cuiti iyo chi Ã±ivi cuhvi.
+#español##mixteco##Recibir atenciÃ³n mÃ©dica adecuada.##Iyo cha cuiti chihin cun cha cua ndehe vaha iin dotor chihin cun cuhva cha tahan chi.
+#español##mixteco##Recibir trato digno y respetuoso.##Iyo cha cuiti chihin cun cha cua tayahvi ra dotor ndihi cha cuiti cha iyo chihun, ta cua sacahnu ra chihun.
+#español##mixteco##Recibir informaciÃ³n suficiente, clara, oportuna y veraz.##Iyo cha cuiti chihin cun cha cua cati tuhun vaha ra dotor chihun hora cha tahan chi, ta cua cati ra cha ndicha chihin cun.
+#español##mixteco##Decidir libremente sobre tu atenciÃ³n.##Iyo cha cuiti chihin cun cha cua cati maun yoso cuhva cua ndehe ra dotor chihun.
+#español##mixteco##Otorgar o no tu consentimiento vÃ¡lidamente informado.##Iyo cha cuiti chihin cun cha cua cati tuhun vaha Ã±i chihin cun, ta cua cati maan cun ndaa cha cuni cun a Ã±a cuni cun.
+#español##mixteco##Ser tratado con confidencialidad.##Iyo cha cuiti chihin cun tu cuni cun cha yoni cua coto Ã±aan tahan cun.
+#español##mixteco##Contar con facilidades para obtener una segunda opiniÃ³n.##Iyo cha cuiti chihin cun cha cua cuhun cun nuun inca dotor, ta cua nducu tuhun cun Ã±aan tahan cun.
+#español##mixteco##Recibir atenciÃ³n mÃ©dica en caso de urgencia.##Iyo cha cuiti chihin cun cha quii ni cua ndehe dotor chihin cun tu cha iyo xaan tahan cun cha cuhvi cun.
+#español##mixteco##Contar con un expediente clÃ­nico.##Iyo cha cuiti chihin cun cha cua coo iin tutu cuenda ndihi cuehe cha tahan cun.
+#español##mixteco##Ser atendido cuando te inconformes por la atenciÃ³n mÃ©dica recibida.##Iyo cha cuiti chihin cun cha cua cahan Ã±ivi cha cahun tu cua xico tuhun cun chi iin dotor cha Ã±a ndehe vaha chihin cun.

@@ -1,0 +1,2498 @@
+﻿<expresion>		Abono
+<se dice>		Satai abono chikaii xa'a yutui.
+<significa>		Compraré abono para echarle a mi milpa.
+<puede decirse>	Satai yuchusa'an chikaii xa'a yutui.
+
+<expresion>		Abuelito
+<se dice>		Akoóka abuelitoi.
+<significa>		Ya no tengo abuelito.
+<puede decirse>	Akoóka xií.
+
+<expresion>		Abusar
+<se dice>		Ta siko takuíbisi kisa abusarnira, chi ndeéni ya'bi sikora.
+<significa>		El que vende agua fresca es muy abusivo, porque la da muy cara.
+<puede decirse>	Ta siko takuíbisi kisanikibinira, chi ndeéni ya'bi sikora.
+
+<expresion>		Acarrear
+<se dice>		Kuá'an kasakarrear takuí.
+<significa>		Vete a acarrear agua.
+<puede decirse>	Kuá'an kuikó takuí.
+
+<expresion>		Aceite
+<se dice>		Xa kixaani aseite xaá.
+<significa>		Ya llegó aceite comestible nuevo.
+<puede decirse>	Xa kixaani nda sa'án xaá.
+
+<expresion>		Aceptar
+<se dice>		Na kasaseptayó, chi ña ni'iyó kúña.
+<significa>		Hay que aceptarlo, ya que nos lo regalan.
+<puede decirse>	Na ki'iyóña, chi ña ni'iyó kúña.
+
+<expresion>		Acordeón
+<se dice>		In tata síka'ara akordeón.
+<significa>		Un señor toca el acordeón.
+<puede decirse>	In táta síka'ara xin in túnndée.
+
+<expresion>		Acta de matrimonio
+<se dice>		Ña kibi tunda'un taxina ña akta de matrimonio.
+<significa>		El día que llegues a casarte te darán un acta de matrimonio.
+<puede decirse>	Ña kibi tunda'un taxina ña tutu tunda'un be'e chino.
+
+<expresion>		Adornar
+<se dice>		Na kasaadornai be'ei chi koo biko.
+<significa>		Voy a adornar mi casa porque voy a tener fiesta.
+<puede decirse>	Na kasa kuti be'ei chi koo biko.
+
+<expresion>		Aguacate
+<se dice>		Taxilo'o in aguakate na kaxí.
+<significa>		Dame un aguacate para comer.
+<puede decirse>	Taxilo'o in tichí na kaxí.
+
+<expresion>		Aguacero
+<se dice>		Ndeénakui nikun aguasero ñuú.
+<significa>		Cayó un aguacero anoche.
+<puede decirse>	Ndeénakui nikun saabi ñuú.
+
+<expresion>		Alambre
+<se dice>		Yi'i kumíi obi no'ni alambre.
+<significa>		Tengo dos rollos de alambre.
+<puede decirse>	Yi'i kumíi obi no'ni yo'o kaa.
+
+<expresion>		Albergue
+<se dice>		Náku'in ndakai ña sa'yai nu íyo be'e alberge.
+<significa>		Voy a dejar a mi hija en el albergue.
+<<puede decirse>>	Náku'in ndakai ña sa'yai nu íyo be'e nu ñó'o nakualí xíxisii.
+
+<expresion>		Alcohol
+<se dice>		Taxilo'o alkol nda'ai chi tukue'enía.
+<significa>		Pásame el alcohol porque me lastimé la mano.
+<puede decirse>	Taxilo'o nda tatán nda'ai chi tukue'enía.
+
+<expresion>		Alimento
+<se dice>		Anbasa sikokai alimento xaxí kini.
+<significa>		Ya no vendo alimento para  marrano.
+<puede decirse>	Anbasa sikokai ña xaxí kini.
+
+<expresion>		Amigo
+<se dice>		Yi'i kumi kua'aní na ká'an ba'a xí'in.
+<significa>		Yo tengo muchos amigos.
+<puede decirse>	Yi'i kumí kua'ani na ka'an ba'a xí'in.
+
+<expresion>		Anafre
+<se dice>		Na naka'mii ñu'u xi'in anafre yó'o.
+<significa>		Yo voy a quemar lumbre con mi anafre.
+<puede decirse>	Na naka'mii ñu'u xi'in kaa xíxi ñu'u yó'o.
+
+<expresion>		Andariego
+<se dice>		In talo'o andariegonira.
+<significa>		Un muchacho andariego.
+<puede decirse>	In talo'o xa'aní.
+
+<expresion>		Anillo
+<se dice>		Sandáñu'ui aniyo ñási'i.
+<significa>		Perdí el anillo de mi esposa.
+<puede decirse>	Sandáñu'ui se'é ñási'i.
+
+<expresion>		Antena
+<se dice>		Kumií okonda'á antena no xita.
+<significa>		Tengo veinte brazadas de antena.
+<puede decirse>	Kumií okonda'á tuchu no xita.
+
+<expresion>		Apagador
+<se dice>		Xa nitibí apagador íyo be'ei.
+<significa>		Ya se descompuso el apagador de mi casa.
+<puede decirse>	Xa nitibí ñanda'ba ñu'u íyo be'ei.
+
+<expresion>		Arado
+<se dice>		Naku'ln xin arado ña ta'bíi.
+<significa>		Me llevo mi arado para barbechar.
+<puede decirse>	Naku'in xin yata ña ta'bíi.
+
+<expresion>		Arena
+<se dice>		Yi'l kótni lo'o arena.
+<significa>		Quiero un poco de arena.
+<puede decirse>	Yi'i kóni lo'o yotí.
+
+<expresion>		Ataúd
+<se dice>		Na satai in ataúd.
+<significa>		Voy a comprar un ataúd.
+<puede decirse>	Na satai in xaton díi.
+
+<expresion>		Autoridad
+<se dice>		Naku'in no íyo na autoridad.
+<significa>		Voy con la autoridad.
+<puede decirse>	Náku'in' no íyo na ndisochiño xin ñuu.
+
+<expresion>		Avión
+<se dice>		Xaku'in xí'in abión.
+<significa>		Ya me voy en el avión.
+<puede decirse>	Xaku'in xí'in nóndachi.
+
+<expresion>		Aviso
+<se dice>		Bitin sáya'andi abisp númi.
+<significa>		Hoy vamos a pasar los avisos más urgentes.
+<puede decirse>	Bitin sáya'andi chunkána númi.
+
+<expresion>		Ayate
+<se dice>		Xi chutú ayate xín níi.
+<significa>		Ya se llenó el ayate con la mazorca.
+<puede decirse>	Xi chutú ñuunúndaka xin níi.
+
+<expresion>		Azotea
+<se dice>		Nakaba asotea be'ei.
+<significa>		Se cayó la azotea de mi casa.
+<puede decirse>	Nakaba sini be'ei.
+
+<expresion>		Azúcar
+<se dice>		Kuá'an ki'ún asúkar na kuba'a takuíbisi ko'oyó.
+<significa>		Ve a traer ei azúcar para hacer agua fresca para tomar.
+<puede decirse>	Kuá'an ki'ún yuchúbisi na kuba'a takuíbisi ko'oyó.
+
+<expresion>		Bailar
+<se dice>		Naku'in kasabailaryu ta kixaai.
+<significa>		Voy a bailar y regreso.
+<puede decirse>	Náku'in taxa'ai ta kixaai.
+
+<expresion>		Banco
+<se dice>		Táan ke'ei in banko no kooyó.
+<significa>		Mañana voy a hacer un banco para sentarnos.
+<puede decirse>	Táan ke'ei in bitiíton no kooyó.
+
+<expresion>		Banco Rural
+<se dice>		Náku'in satai abono ña be'e Banko Rural ña Tanda'yi.
+<significa>		Voy a comprar abono en el Banco Rural de Tlapa.
+<puede decirse>	Náku'in satai yuchúsa'an no taxi lkánaña ña Tanda'yi.
+
+<expresion>		Bandera
+<se dice>		Náko'o kotonda'yáyo bandera noó ká'bi nakualí.
+<significa>		Vamos a ver la bandera en la escuela.
+<puede decirse>	Nako'o kotonda'yáyo tikoto kumii onitaku noó ka'bi nakualí.
+
+<expresion>		Banqueta
+<se dice>		Nákoi no banketa yó'o.
+<significa>		Voy a sentarme en esta banqueta.
+<puede decirse>	Nákoi nonakandeena'a yó'o.
+
+<expresion>		Baño
+<se dice>		Yó'o íyo baño no chíchiyo.
+<significa>		Aquí es el baño donde nos bañamos.
+<puede decirse>	Yó'o íyo be'e no chíchiyo.
+
+<expresion>		Baraja
+<se dice>		Sákua'ai kusikí baraja.
+<significa>		Voy a aprender a jugar baraja.
+<puede decirse>	Sákua'ai kusikí tutu ndáku.
+
+<expresion>		Barco
+<se dice>		Libiní barko xíka no takui káa.
+<significa>		El barco que anda en el agua está muy bonito.
+<puede decirse>	Libiní iton xíka no takuí káa.
+
+<expresion>		Barreta
+<se dice>		Libiní barretaun.
+<significa>		Qué bonita está tu barreta.
+<puede decirse>	Libiní kaa xatón.
+
+<expresion>		Báscula
+<se dice>		Abá'aka báskula, axiínka nachíñu sikóra.
+<significa>		No sirve su báscula, por eso ya no quieren las autoridades que venda.
+<puede decirse>	Abá'aka ña chú'unra, axiínka nachíñu sikóra.
+
+<expresion>		Batería
+<se dice>		Ninda'ba batería no yito.
+<significa>		Se descargó la batería del carro.
+<puede decirse>	Ninda'ba no síso ñu'u no yito.
+
+<expresion>		Berbiquí
+<se dice>		Taxi berbikí chi xininú'uña.
+<significa>		Dame el berbiquí porque lo necesito.
+<puede decirse>	Taxi kaa káan yiton chi xininú'uña.
+
+<expresion>		Biblioteca
+<se dice>		Nákun'i biblioteka ka'bi inkánilo.
+<significa>		Voy a la biblioteca a estudiar un rato.
+<puede decirse>	Nákun'i be'e nu sátatina tutu ka'bi inkánilo.
+
+<expresion>		Bicicleta
+<se dice>		Nánday xata bisikleta ta ko'oyo tikán'a.
+<significa>		Me subo en la bicicleta y nos vamos ahorita.
+<puede decirse>	Nánday xata no xíno xin obi tikuita ta ko'oyo tikán'a.
+
+<expresion>		Billete
+<se dice>		Nina xu'ún biyete cha'biña'ána bitin.
+<significa>		Le pagaron con puros billetes ahora.
+<puede decirse>	Nina xu'ún tutu cha'biña'ána bitin.
+
+<expresion>		Bimbo
+<se dice>		Na satai bimbo kuxi.
+<significa>		Voy a comprar bimbo para comer.
+<puede decirse>	Na satai sitaba'a ñu'u tutu kuxi.
+
+<expresion>		Blusa
+<se dice>		Na satai in blusa kutá'anxin siyotokói.
+<significa>		Voy a comprar una blusa para mi falda.
+<puede decirse>	Na satai in kotósiyó kutá'an xin siyotokói.
+
+<expresion>		Bodega
+<se dice>		Xa yatáni be'e bodega.
+<significa>		Ya está muy vieja la bodega.
+<puede decirse>	Xa yatáni be'e noó taxiba'ana ña'a.
+
+<expresion>		Boleto
+<se dice>		Kuá'an satón boleto no iton kée kaa iin.
+<significa>		Vete a comprar boleto para el carro de las nueve.
+<puede decirse>	Kuá'an satón tutu no iton kée kaa iin.
+
+<expresion>		Bolillo
+<se dice>		Kuá'an kan'ún xin ña Petra na taxiñá kumi bolillo nda'ún.
+<significa>		Vete y dile a doña Petra que te dé cuatro bolillos.
+<puede decirse>	Kuá'an kan'ún xin ña Petra na taxiñá kumi sitaba'a o'ba nda'ún.
+
+<expresion>		Bolsa
+<se dice>		Na kuni'i bolsa yó'o ku'in.
+<significa>		Me llevo esta bolsa.
+<puede decirse>	Na kuni'i tutu ñú'u ña'a yó'o ku'in.
+
+<expresion>		Bomba
+<se dice>		Na ka'ní ndi'i tio'ó xin bomba yó'o.
+<significa>		Voy a matar las pulgas con esta bomba.
+<puede decirse>	Na ka'ni ndi'i tio'ó xin kaa xá'ni kiti kualí yó'o.
+
+<expresion>		Borrador
+<se dice>		Taxi borrador nda'ai.
+<significa>		Pásame el borrador.
+<puede decirse>	Taxi ña ndóo tutu nda'ai.
+
+<expresion>		Borrego
+<se dice>		Náku'in kundal borrego sanayó.
+<significa>		Voy a cuidar nuestros borregos.
+<puede decirse>	Náku'in kunda ndikachi sanayó.
+
+<expresion>		Botana
+<se dice>		Nindoo salo'o botana kuxiyó.
+<significa>		Me sobró algo de botana para comer hoy. bitin.
+<puede decirse>	Nindoo salo'o ta'bi kuxiyó bitin.
+
+<expresion>		Bote
+<se dice>		Náku'in ki'in bote káa.
+<significa>		Voy a traer ese bote.
+<puede decirse>	Náku'in ki'in in kaa bita ñú'u ña'a káa.
+
+<expresion>		Botella
+<se dice>		Náku'in ki'in boteya káa ta ku'un satayó ndábisi.
+<significa>		Voy a traer esa botella para que vaya a comprar un refresco.
+<puede decirse>	Náku'in ki'in yuyú káa ta ku'un satayó ndábisi.
+
+<expresion>		Botón
+<se dice>		Taxi in botón káa nda'i chitií tikotoi.
+<significa>		Dame un botón para ponérselo a mi ropa.
+<puede decirse>	Tachi in ti tiín tikoto nda'i chitií tikotoi.
+
+<expresion>		Brasier
+<se dice>		Ña tuún ku brasier ña Juana.
+<significa>		El brasier de Juana es negro.
+<puede decirse>	Ña tuún ku tikoto sá'bi ndoso ña Juana.
+
+<expresion>		Brillantina
+<se dice>		Nda kuá'a ku briyantina ta Luis.
+<significa>		La brillantina de Luis es de color  rojo.
+<puede decirse>	Nda kuá'a ku nduta kí'bi sini ta Luis.
+
+<expresion>		Brocha
+<se dice>		Yi'i kúni in brocha ña naka'yi no yé'ei.
+<significa>		Yo quiero una brocha para pintar la puerta de mi casa.
+<puede decirse>	Yi'i kúni in ña kumí isinoo ña naka'yi no yé'ei.
+
+<expresion>		Burlar
+<se dice>		Akasa burlaunra chi kutéra xu'ún.
+<significa>		No te burles de él porque si no se va a molestar.
+<puede decirse>	Akusikiura chi kutéra xu'ún.
+
+<expresion>		Caballo
+<se dice>		Na kosoi ti kabayo yó'o.
+<significa>		Me voy a montar en este caballo.
+<puede decirse>	Na kosoi tikuayi yó'o.
+
+<expresion>		Cable de luz
+<se dice>		Ku'in satai kable lus ña kunakaa be'ei.
+<significa>		Voy a comprar cable de luz para  instalar mi casa.
+<puede decirse>	Ku'in satai tuchu ña kunakaa be'ei.
+
+<expresion>		Cacahuate
+<se dice>		Kutoní kaxí kakauate.
+<significa>		Me gusta mucho comer cacahuate.
+<puede decirse>	Kutoní kaxí si'bañu'u.
+
+<expresion>		Cadena
+<se dice>		Xin kadenayó'o ku'ni ina.
+<significa>		Con esta cadena voy a amarrar al perro.
+<puede decirse>	Xin ña kaa nákuta'a yó'o ku'ni ina.
+
+<expresion>		Café
+<se dice>		Na chinói kafé ko'oyó.
+<significa>		Voy a poner café para tomar.
+<puede decirse>	Na chinói nda bisi ko'oyó.
+
+<expresion>		Caja de cartón
+<se dice>		Naku'in satai in kaja ña kartón.
+<significa>		Voy a comprar una caja de cartón.
+<puede decirse>	Naku'in satai in xaton tutu.
+
+<expresion>		Calcetín
+<se dice>		Xa satai obi kalsetín.
+<significa>		Yo compré dos calcetines.
+<puede decirse>	Xa satai obi yitín ñú'un xa'aná.
+
+<expresion>		Calendario
+<se dice>		Nakotol no kalendario nda yoo dóoyo.
+<significa>		Voy a ver en el calendario en que mes estamos.
+<puede decirse>	Nakotoi no tutu ña baxi kibi nda yoo ndóoyo.
+
+<expresion>		Calidra
+<se dice>		Naka'yii be'el xíu kalidra.
+<significa>		Revolqué mi casa con calidra.
+<puede decirse>	Naka'yii be'ei xiu kakaá.
+
+<expresion>		Calzón de manta
+<se dice>		Kónii in kalsón ña kundixii.
+<significa>		Quiero un calzón para ponerme.
+<puede decirse>	Kóonii in xati tikoto ña kundixii.
+
+<expresion>		Calle
+<se dice>		Na ku'uin chi kaye yó'o.
+<significa>		Voy en esta calle.
+<puede decirse>	Na ku'uin chi yichíndika yó'o.
+
+<expresion>		Camarón
+<se dice>		Ya'biní ndáa kamarón kuxiyó.
+<significa>		Cuesta muy caro el camarón para comer.
+<puede decirse>	Ya'biní ndáa tindutiá kuxiyó.
+
+<expresion>		Camisa
+<se dice>		Kuá'an naid'ún kamisai na kundixii.
+<significa>		Ve a traer mi camisa para  ponérmela.
+
+<expresion>		Campana
+<se dice>		Na ku'in kanii kampana be'e ñu'u.
+<significa>		Voy a tocar la campana en la iglesia.
+<puede decirse>	Na ku'in kanii kaa be'e ñu'u.
+
+<expresion>		Camposanto
+<se dice>		Kuá'an ndakaún in níma kamposanto.
+<significa>		Ve a dejar un difunto al  camposanto.
+<puede decirse>	Kuá'an ndakaún in níma no ndúxuna.
+
+<expresion>		Canal
+<se dice>		Na kotoi áya'a takuí kanal káa.
+<significa>		Voy a ver si pasa el agua allá en el canal.
+<puede decirse>	Na kotoi áya'a takuí ini chichi káa.
+
+<expresion>		Canasta
+<se dice>		Na ku'in satai in kanasta.
+<significa>		Voy a comprar una canasta.
+<puede decirse>	Na ku'in satai in chikiba.
+
+<expresion>		Cancha
+<se dice>		Na kun'undi kusíkindii kancha káa.
+<significa>		Vamos a jugar en la cancha.
+<puede decirse>	Na kun'undi kusíkindii noo ndíka káa.
+
+<expresion>		Candado
+<se dice>		Ku'in satai kandado kundasi yé'ei.
+<significa>		Voy a comprar un candado para cerrar mi puerta.
+<puede decirse>	Ku'in satai kaa kundasi yé'ei.
+
+<expresion>		Cangrejo
+<se dice>		Libiní ti kangrejo keta yu'ú takuí káa.
+<significa>		Está muy bonito el cangrejo que salió del agua.
+<puede decirse>	Libiní titioó keta yu'ú takuí káa.
+
+<expresion>		Cántaro
+<se dice>		Taxi kántaro nda'ai na kuki'in takuí ko'oyó.
+<significa>		Dame el cántaro para ir a traer agua para tomar.
+<puede decirse>	Taxi yoo nda'ai na kuki'in takuí ko'oyó.
+
+<expresion>		Cantina
+<se dice>		Chutúni ta xí'i kantina.
+<significa>		Hay muchos borrachos en la cantina.
+<puede decirse>	Chutúni ta xí'i no kiá'bi ndisi.
+
+<expresion>		Carpeta
+<se dice>		Na taába'ai tutui ini karpeta chi kotoka kukiniña.
+<significa>		Voy a guardar mis papeles en esta carpetaNa taába'ai tutui iní tutukuiiko chi kotoka kukiniña. porque si no se van a manchar.
+<puede decirse>	
+
+<expresion>		Carretera
+<se dice>		Xa niki'bi karretera ñuundi.
+<significa>		Ya penetró la carretera en  nuestro pueblo.
+<puede decirse>	Xa niki'bi ichi xíka no iton ñuundi.
+
+<expresion>		Carretilla
+<se dice>		Akoó karretiya kumii.
+<significa>		No tengo carretilla.
+<puede decirse>	Akoó kaa ndíso ña'a kumii.
+
+<expresion>		Carro
+<se dice>		Ña kibi ku'in Tanda'yi, ndai no karro.
+<significa>		Cuando vaya a Tlapa, voy a  tomar el carro.
+<puede decirse>	Ña kibi ku'in Tanda'yi, ndai no iton xikónayibi.
+
+<expresion>		Carta
+<se dice>		Yó'o íyo in karta kixaa nda'un.
+<significa>		Aquí está una carta que te llegó.
+<puede decirse>	Yó'o íyo in tutu ti'bina kixaa nda'un.
+
+<expresion>		Cartero
+<se dice>		Baxi ta kartero chi be'eyó.
+<significa>		Viene el cartero para la casa.
+<puede decirse>	Baxi ta ní'i tutu chi be'eyó.
+
+<expresion>		Cartoncillo
+<se dice>		Ya'biní ndáa kartonsiyo satai.
+<significa>		Costó muy caro el cartón cilio que compré.
+<puede decirse>	Ya'biní ndáa tutu yá'a satai.
+
+<expresion>		Cartulina
+<se dice>		Nasatai in kartulina.
+<significa>		Voy a comprar una cartulina.
+<puede decirse>	Nasatai in tutu kuíjun yaa.
+
+<expresion>		Caseta
+<se dice>		Kumii in kaseta lo'oní.
+<significa>		Tengo una caseta pequeña.
+<puede decirse>	Kumíi in be'e lo'oní.
+
+<expresion>		Castillo
+<se dice>		Ka'ndí kastiyo ñuui chi biko kia.
+<significa>		Se va a quemar castillo en mi pueblo porque es fiesta.
+<puede decirse>	Ka'ndí ñu'u xíxi ñuui chi biko kia
+
+<expresion>		Cazuela
+<se dice>		Naku'in satai in kasuela xaá.
+<significa>		Voy a comprar una cazuela nueva.
+<puede decirse>	Naku'in satai in tixa'a xaá.
+
+<expresion>		Cebolla
+<se dice>		Naku'in kaxií ndakú tachikai seboya xín'an.
+<significa>		Voy a comer pozole y le voy a echar cebolla.
+<puede decirse>	Naku'in kaxií ndakú tachikai tikumi xín'an.
+
+<expresion>		Cepillo
+<se dice>		Ña xa'a ku sepiyoi.
+<significa>		Es nuevo mi cepillo.
+<puede decirse>	Ña xa'a ku ñanákatai yu'ui.
+
+<expresion>		Cera
+<se dice>		Xindi'i sera ke'ei tima.
+<significa>		Ya se acabó la cera con la que voy a hacer velas.
+<puede decirse>	Xindi'i ñima ke'ei tima.
+
+<expresion>		Cerillo
+<se dice>		Kisakuí'nana seriyo kumí.
+<significa>		Me robaron mi cerillo.
+
+<expresion>		Certificado (de estudio)
+<se dice>		Xa nataxina sertifikado ka'bii.
+<significa>		Ya me entregaron mi certificado.
+<puede decirse>	Xa natáxina tutu ña santí'i ka'bii
+
+<expresion>		Cerveza
+<se dice>		Ya'biní serbesa bitín.
+<significa>		Esta muy cara la cerveza ahora.
+<puede decirse>	Ya'biní nduta nda xiniyo bitín.
+
+<expresion>		Cigarro
+<se dice>		Kí'bi siní ña xa'mii sigarro.
+<significa>		Me duele la cabeza cuando fumo cigarro.
+<puede decirse>	Kí'bi siní ña xa'mii kuino.
+
+<expresion>		Cincel
+<se dice>		Kúnii in sinsel.
+<significa>		Quiero un cincel.
+<puede decirse>	Kúnii in kaá taka.
+
+<expresion>		Cine
+<se dice>		Ko'yó sine kotonda' yáyo chi libinía ya'a.
+<significa>		Vamos al cine a ver la película porque está bonita.
+<puede decirse>	Ko'yó in be'e nu íyo ña latón kotonda'yáyo chi libinía ya'a.
+
+<expresion>		Cinturón
+<se dice>		Ña sinturón nó'ni tixún ña tuún kia.
+<significa>		El cinturón que tienes en negro.
+<puede decirse>	Ña ñíi nó'ni tixún ña tuún kia.
+
+<expresion>		Clavo
+<se dice>		Náku'in satai klabo kanii xata iton yó'o.
+<significa>		Voy a comprar clavo para clavar este palo.
+<puede decirse>	Nákun'in satái kaa kanii xata iton yó'o.
+
+<expresion>		Cobrador
+<se dice>		Ya'biní ki'in ta kobrador nda'ai.
+<significa>		Me cobró muy caro el cobrador.
+<puede decirse>	Ya'biní ki'in ta kí'in xu'ún nda'ai.
+
+<expresion>		Coco
+<se dice>		Na satai in koko kaxíi.
+<significa>		Voy a comprar un coco para comer.
+<puede decirse>	Na satai in ti ñu'u takuí ini kaxíi.
+
+<expresion>		Cohete
+<se dice>		Libiní kua'ankaa koete.
+<significa>		Muy bonito se eleva el cohete.
+<puede decirse>	Libiní kua'ankaa ñu'u ká'nti ninó.
+
+<expresion>		Color
+<se dice>		Naka'yii be'ei xin kolor yó'o.
+<significa>		Voy a pintar mi casa con este color.
+<puede decirse>	Naka'yii be'ei xin taku yó'o.
+
+<expresion>		Comandante
+<se dice>		Ndeéni ndó'o ta tata komandante.
+<significa>		Está muy enfermo el señor  comandante.
+<puede decirse>	Ndeéni ndó'o ta tata ndáa chíño xin ñuu.
+
+<expresion>		Comedor
+<se dice>		Ndáti yó'o ña komedor kuxiyó.
+<significa>		Te espero en el comedor para comer.
+<puede decirse>	Ndáti yó'o no iyo be'e xixiyó ña kuxiyó.
+
+<expresion>		Comida
+<se dice>		Na ke'ei komida kuxiyó.
+<significa>		Voy a hacer comida para comer.
+<puede decirse>	Na ke'ei ña'a kuxiyó.
+
+<expresion>		Comisario
+<se dice>		Náku'in kotoi ta komisario.
+<significa>		Voy a ver al señor comisario.
+<puede decirse>	Naku'in kotoi ta ndísochiño xin ñuu.
+
+<expresion>		Comunicar
+<se dice>		Ta Pedro kisakomunikara xin ta Pablo.
+<significa>		Pedro se comunica con Pablo.
+<puede decirse>	Ta Pedro ndatú'ura xin ta Pablo.
+
+<expresion>		Conejo
+<se dice>		Naku'in ka'ní ti konejo kua'an káa.
+<significa>		Voy a matar ese conejo que va allá.
+<puede decirse>	Naku'in ka'ní ti leso kua'an káa.
+
+<expresion>		Consejo
+<se dice>		Xií taxi in konsejo nda'aii.
+<significa>		Mi abuelo me dio un consejo.
+<puede decirse>	Xií taxi in tun'unba'a nda'aii.
+
+<expresion>		Consulta
+<se dice>		Ya'biní kí'in takísa tajna xa'a in konsulta nda'ai.
+<significa>		Cobra muy caro el médico por una consulta.
+<puede decirse>	Ya'biní kí'in takísa tajna xa'a in tutu no baxi kibi tajna nda'ai.
+
+<expresion>		Consultorio
+<se dice>		Naku'in no íyo konsultorio.
+<significa>		Voy al consultorio.
+<puede decirse>	Naku'in no íyo ta sanda'a nayibí.
+
+<expresion>		Convocatoria
+<se dice>		Na chikai in konbokatoria ña "Be'e ndusu kiú'un" ña kixi na yibí.
+<significa>		Voy a poner una convocatoria en "La voz de la montaña”.
+<puede decirse>	Na chikai in tutu "Be'e ndusu kiú'un" ña kixi na yibí.
+
+<expresion>		Cooperador
+<se dice>		Naku'in noó ta koperador káa.
+<significa>		Voy con el señor cooperador.
+<puede decirse>	Náku'in noó ta chindeé na yibí káa.
+
+<expresion>		Copal
+<se dice>		Taxi kopal kaá nda'i chi kuniñú'u ña'i.
+<significa>		Dame ese copal porque lo voy a ocupar.
+<puede decirse>	Taxi xuxakaá nda'i chi kuniñú'u ña'ai.
+
+<expresion>		Cometa
+<se dice>		Náku'in kotonda'yai chi tíbinina kometa.
+<significa>		Voy a ver un ratito porqué están tocando la cometa.
+<puede decirse>	Náku'in kotonda'yai chi tíbinina ká'a xi'tachi yu'una.
+
+<expresion>		Corral
+<se dice>		Ká'noni korral no ñó'o nduxu.
+<significa>		Esta muy grande el corral donde tienen las gallinas.
+<puede decirse>	Ká'noni tikuita no ñó'o nduxu.
+
+<expresion>		Correa
+<se dice>		Naku'in Tanja'yi satai korrea ndi'bi nduxai.
+<significa>		Voy a Tlapa a comprar correa para mis huaraches.
+<puede decirse>	Naku'in Tanda'yi satai ñií ndi'bi nduxai.
+
+<expresion>		Cortauñas
+<se dice>		Taxi kortauñas ka'ntai chíin.
+<significa>		Dame el cortauñas para cortar mis uñas.
+<puede decirse>	Taxi na xa'nta chíi ka'ntai chíin.
+
+<expresion>		Costal
+<se dice>		Xi nitan'ta kostal kachiñoi.
+<significa>		Ya se rompió el costal con que trabjo.
+<puede decirse>	Xi nitan'ta tindaa kachiñoi.
+
+<expresion>		Costumbre
+<se dice>		Latuní kostumbre íyo ñuui.
+<significa>		En mi pueblo tenemos una  costumbre muy bonita.
+<puede decirse>	Latuní ña ke'ena íyo ñuui.
+
+<expresion>		Coyunda
+<se dice>		Naku'in xin koyunda yó'o ña kunu'ni sini sindiki sanai.
+<significa>		Me llevo esta coyunda para  amarrar mis bueyes.
+<puede decirse>	Naku'in xin ñíi ña kunu'ni sini sindiki sanai.
+
+<expresion>		Credencial
+<se dice>		Xa taxina kredensial nda'ai.
+<significa>		Ya me dieron mi credencial.
+<puede decirse>	Xa taxina tutu ndakuin xa'ai nda'ai.
+
+<expresion>		Crema
+<se dice>		Xíniño'oi krema ndanoo ñoí.
+<significa>		Necesito crema para mi cara.
+<puede decirse>	Xíniño'oi sa'an xa'atamí ndanoo noí.
+
+<expresion>		Crucero
+<se dice>		Na kundatira yi'i krusero Ñuu Si'ua.
+<significa>		Que me espere en el crucero de Tlaxco.
+<puede decirse>	Na kundatira yi'i no ta'bi ichi Ñuu Si'ua.
+
+<expresion>		Cuarto
+<se dice>		Lo'oní kuarto no íyoi.
+<significa>		Está muy chiquito mi cuarto.
+<puede decirse>	Lo'oní be'e no íyoi.
+
+<expresion>		Cubeta
+<se dice>		Taxi kubeta ña kuni'i takuí.
+<significa>		Dame la cubeta para que yo  lleve agua.
+<puede decirse>	Taxi kaá ña xikona takuí nda'ai ña kuni'i takuí.
+
+<expresion>		Cuchara (para albañil)
+<se dice>		Taxi kuchara kaa nda'ai.
+<significa>		Dame esa cuchara que esta allí.
+<puede decirse>	Taxi kaa ña nákabana nda'yi káa nda'ai.
+
+<expresion>		Cuchillo
+<se dice>		Taxi kucliiyo na ka'ndai yo'o.
+<significa>		Dame el cuchillo para que corte el mecate.
+<puede decirse>	Taxi kaa ña xa'nda na ka'ndai yo'o.
+
+<expresion>		Cuenta
+<se dice>		Nátabai kuenta, ndasá kétaña xa'a nuni ki'in.
+<significa>		Voy a sacar mi cuenta, cuánto me va a salir por el maíz que voy a comprar.
+<puede decirse>	Nátabai ki'ba, ndasá kétaña xa'a nuni ki'in.
+
+<expresion>		Cuento
+<se dice>		Nana, ndatu'u in kuento xí'in.
+<significa>		Mamá, cuéntame un cuento.
+<puede decirse>	Naná, ndatu'u in ña xiniún xí'in.
+
+<expresion>		Cuerda
+<se dice>		Nita'nda kuerda no sakai.
+<significa>		Se reventó la cuerda de mi  guitarra.
+<puede decirse>	Nita'nda tuchu no sakai.
+
+<expresion>		Cuero
+<se dice>		Yi'i síkoi in kuero ti sindiki.
+<significa>		Yo vendo un cuero de res.
+<puede decirse>	Y'i'i síkoi in ñii ti sindiki.
+
+<expresion>		Cuiji
+<se dice>		Náku'in ka'ní ti kuiji kua'a kaa.
+<significa>		Voy a matar ese cuiji que va allá.
+<puede decirse>	Naku'in ka'ní ti nbila kua'a káa.
+
+<expresion>		Cuñada
+<se dice>		Yi'i komií in kuñadai.
+<significa>		Yo tengo una cuñada.
+<puede decirse>	Yi'i komií in ña si'í lo'oi.
+
+<expresion>		Cuota
+<se dice>		Taan tnxií in kuota no sákua'i.
+<significa>		Mañana daré una cuota en donde estudio.
+<puede decirse>	Taan taxi xu'ún no sákua'i.
+
+<expresion>		Chicle
+<se dice>		Kímii kaxií chikle.
+<significa>		Quiero masticar chicle.
+<puede decirse>	Kónii kaxií kutií.
+
+<expresion>		Chicharrón
+<se dice>		Náku'in satai chicharrón kuxiyó.
+<significa>		Voy a comprar chicharrón para comer.
+<puede decirse>	Náku'in satai ña ñií kini ña káso kuxiyó.
+
+<expresion>		Chilate
+<se dice>		Náke'ei chilate kuxiyó.
+<significa>		Voy a hacer chilate para comer.
+<puede decirse>	Náke'ei tayá'a kuá'a kuxiyó.
+
+<expresion>		Chirmole
+<se dice>		Xatiní chirmole ke'é ña Filomena.
+<significa>		Está muy picoso el chirmole que hizo Filomena.
+<puede decirse>	Xatiní nda tayá'a ke'é ña Filomena.
+
+<expresion>		Chocolate
+<se dice>		Náku'in ki'in chokolate ko'oyó.
+<significa>		Voy a comprar chocolate para desayunar.
+<puede decirse>	Náku'in ki'in si'ba ko'oyó.
+
+<expresion>		Chofer
+<se dice>		Ba'anakuí ta chofer.
+<significa>		El chofer es muy bueno.
+<puede decirse>	Ba'anakuí ta kaba no xikó nayibí.
+
+<expresion>		Danza
+<se dice>		Náku'in kotonda'yái dansa ti leso.
+<significa>		Voy a ver la danza del conejo.
+<puede decirse>	Náku'in kotonda'yái yaa ti leso.
+
+<expresion>		Dengue
+<se dice>		Ndeéni ndo'oi ndenke.
+<significa>		Estoy enfermo del dengue.
+<puede decirse>	Ndeéni ndo'oi kue'e xinú'u.
+
+<expresion>		Desfile
+<se dice>		Na balí na ñú'u be'e no sákua'ana kuan'ana desfile.
+<significa>		Los niños de la escuela van al desfile.
+<puede decirse>	Na balí na ñú'u no sákua'ana kuan'ana kénduuna.
+
+<expresion>		Día del santo
+<se dice>		Ta tata Miguel ña kibi bitin kana biko santora.
+<significa>		Hoy es santo del señor Miguel.
+<puede decirse>	Ta tata Miguel ña kibi bitin kána biko kibira.
+
+<expresion>		Dibujar
+<se dice>		Libiní yita kisa dibujar ta Beto.
+<significa>		Está muy bonita la flor que  dibujó Beto.
+<puede decirse>	Libiní yita sanána ta Beto.
+
+<expresion>		Diccionario
+<se dice>		Na nandikí in tu'un no diksionario yó'o.
+<significa>		Voy a buscar una palabra en este diccionario.
+<puede decirse>	Na nandikí in tu'un no tutu ña yoso tu'un yó'o.
+
+<expresion>		Dinamita
+<se dice>		Taan ndikíi dinamita chi kuniñú'u ña'ai.
+<significa>		Mañana voy a pedir dinamita porque la voy a necesitar.
+<puede decirse>	Taan ndikíi ñu'ú ká'ndi yuu chi kuniñú'u ña'ai.
+
+<expresion>		Director
+<se dice>		Nisaaní ta direktor xin sa'yai ña nixá'ara sákua'ara in kibi.
+<significa>		Se enojó el director con mi hijo porque no fue un día a estudiar.
+<puede decirse>	Nisaaní ta ndíso chíño no sikua'ana xin sa'yai ña nixá'ara sákua'ara in kibi.
+
+<expresion>		Disco
+<se dice>		Náku'in be'e nu kía'bi disko ta satai inña kuíso'oyó.
+<significa>		Voy a la discoteca a comprar un disco para escuchar.
+<puede decirse>	Náku'in be'e no kia'bi ña tikuita xita ta satai inña kuniso'oyó.
+
+<expresion>		Discoteca
+<se dice>		Náku'in diskoteka satai.
+<significa>		Voy a la discoteca a comprar.
+<puede decirse>	Náku'in no kía'bi ña tikuitaxita satai.
+
+<expresion>		Dueto
+<se dice>		Ña yaayó'o xitaña'á in dueto.
+<significa>		Esta canción la canta un dueto.
+<puede decirse>	Ña yaayó'o xitaña'á obi na'á.
+
+<expresion>		Edificio
+<se dice>		Ka'noní edifisio yó'o.
+<significa>		Está muy grande este edificio.
+<puede decirse>	Ka'noní ña be'e ndiso tá'a yó'o.
+
+<expresion>		Encargado
+<se dice>		Ndátu'una xin di'i na encargado.
+<significa>		Se les avisa a todos los  encargados.
+<puede decirse>	Ndátu'una xin di'i na ndísochíño.
+
+<expresion>		Encargo
+<se dice>		Nákuni'ira enkargo kixira.
+<significa>		Que traiga el encargo.
+<puede decirse>	Nákuni'ira ña katandaana kixira.
+
+<expresion>		Enfermera
+<se dice>		Ña enfermera kaniñá túku nayibi.
+<significa>		La enfermera inyectó a las  personas.
+<puede decirse>	Ña chindeé ta kisataj'ná kaniñá túku nayibi.
+
+<expresion>		Escritorio
+<se dice>		Na taai no eskritorio yó'o.
+<significa>		Voy a escribir en este escritorio.
+<puede decirse>	Na taai no bitiba'a yó'o.
+
+<expresion>		Escuela
+<se dice>		Nati'bí nakualí sa'yai ku'una eskuela.
+<significa>		Voy a mandar a mis hijos a la escuela.
+<puede decirse>	Nati'bí nakualí sa'yai ku'una be no sákua'ana.
+
+<expresion>		Espada
+<se dice>		Na kuni'i espada ku'in.
+<significa>		Me llevo mi espada.
+<puede decirse>	Na kuni'i yuchu káni noo yó'o ku'in.
+
+<expresion>		Espejo
+<se dice>		Ká'noni espejo sitoón.
+<significa>		Está muy grande el espejo de tu tío.
+<puede decirse>	Ká'noni yutáatá sitoón.
+
+<expresion>		Estallar
+<se dice>		Na kasaestayaryó in kaa ka'ndi.
+<significa>		Vamos a estallar una bala.	
+<puede decirse>	Na saka'ndiyó in kaa ka'ndi.
+
+<expresion>		Estambre
+<se dice>		Naku'in ki'in in boolo estambre kukui.
+<significa>		Voy a traer una bola de estambre para tejer.
+<puede decirse>	Náku'in ki'in in boolo yi'bakachi kukui.
+
+<expresion>		Estudiante
+<se dice>		Kua'ani estudiante nakoso kihi ña kuiya bitin.
+<significa>		Se inscribieron muchos  estudiantes en este año.
+<puede decirse>	Kua'ani nasSkua'a nakoso kibi ña kuiya bitin.
+
+<expresion>		Estufa
+<se dice>		Na ke'ei ña'a no estufa yó'o.
+<significa>		Voy a guisar en esta estufa.
+<puede decirse>	Na ke'ei ña'a no ña kaa xíxi xin tachi yó'o.
+
+<expresion>		Extranjero
+<se dice>		Ña Ñuuko'yó ndóo saba ekstranjero.
+<significa>		En México viven algunos  extranjeros.
+<puede decirse>	Ña Ñuuko'yó ndóo saba na yibi ñuuxiyo.
+
+<expresion>		Fábrica
+<se dice>		Naku'in fábrika satai.
+<significa>		Voy a la fábrica a comprar.
+<puede decirse>	Naku'in be'e no kuba'a nda'achiño satai.
+
+<expresion>		Falda
+<se dice>		Naku'in satai in falda kundixii.
+<significa>		Voy a comprar una falda para que me la ponga.
+<puede decirse>	Naku'in satai in siyotoko kundixii.
+
+<expresion>		Fandango
+<se dice>		Naku'in fandango ta kixai tikán'an.
+<significa>		Voy al fandango y luego vengo.
+<puede decirse>	Naku'in no iyo biko ta kixai tikán'an.
+
+<expresion>		Farmacia
+<se dice>		Naku'in satai tajna farmasia.
+<significa>		Voy a comprar medicina en la farmacia.
+<puede decirse>	Náku'in satai tajna be'e no kia'bi tajna.
+
+<expresion>		Favor
+<se dice>		Ke'élo'o in fabor xi'in talo'o.
+<significa>		Hazme un favor muchacho.
+<puede decirse>	Ke'élo'o in ña ba'a xi'in talo'o.
+
+<expresion>		Felicitar
+<se dice>		Ku'in be'e sukúi kasafelisitarña'ai.
+<significa>		Voy a felicitar a mi sobrina.
+<puede decirse>	Ku'in be'e sukúi ndasaká'noi kibiña.
+
+<expresion>		Figura
+<se dice>		Na ke'éi figura xin yuxan.
+<significa>		Voy a hacer figuras con la masa.
+<puede decirse>	Na ke'éi ña'akualí xin yuxan.
+
+<expresion>		Firma
+<se dice>		Naku'in no ka'bi ña sa'yai chikai firma.
+<significa>		Voy a la escuela a firmar por mi hija.
+<puede decirse>	Naku'in no ka'bi ña sa'yai ka'yii tutuña.
+
+<expresion>		Flauta
+<se dice>		Na tibii no flauta yó'o.
+<significa>		Voy a tocar esta flauta.
+<puede decirse>	Na tibii no tilalí yó'o.
+
+<expresion>		Foco
+<se dice>		Naku'in satai in foko.
+<significa>		Voy a comprar un foco.
+<puede decirse>	Naku'in satai in kaa nátuun.
+
+<expresion>		Fotografía
+<se dice>		Nikée ba'a fotografía ñanii.
+<significa>		No salió bien la fotografía de mi hermano.	
+<puede decirse>	Nikée ba'a na'ná ñanii.
+
+<expresion>		Fracasar
+<se dice>		Libiníña ta kisafrakasarña, ta bitin xa kumían in talo'o.
+<significa>		Es muy bonita pero fracasó, ahora tiene un hijo.
+<puede decirse>	Libiníña ta nikúchiñoña, ta bitin xa kumía in talo'o.
+
+<expresion>		Freno
+<se dice>		Ta ku'un Tanda'yi taki'ún in freno kunakaa yu'u kuayi sanai.
+<significa>		Cuando vayas a Tlapa compras el freno para mi caballo.
+<puede decirse>	Ta ku'ún Tanda'yi ta ki'ún in yo'okaa kunakaa yu'u kuayi sanai.
+
+<expresion>		Fresno
+<se dice>		No fresno ndeéni síkuno.
+<significa>		El fresno esta muy alto.
+<puede decirse>	No tuyuchí ndeéni síkuno.
+
+<expresion>		Galleta
+<se dice>		Náku'in satai gayeta kaxii.
+<significa>		Voy a comprar galletas para comer.
+<puede decirse>	Naku'in satai sitaba'a kualí kaxii.
+
+<expresion>		Gancho
+<se dice>		Ba'aní gancho xútu ta Odilón.
+<significa>		Está muy bueno el gancho con que limpia Odilón.
+<puede decirse>	Ba'aní chiki'i xútu ta Odilón.
+
+<expresion>		Garlopa
+<se dice>		Ña garlópayo'o aba'akaña.
+<significa>		Esta garlopa ya no sirve.
+<puede decirse>	Ña kaa ñakuunbiti yó'o aba'akaña.
+
+<expresion>		Garrocha
+<se dice>		Náku'in xin garrocha yó'o ña kanina sindiki.
+<significa>		Me llevo esta garrocha para que piquen los bueyes.
+<puede decirse>	Náku'in xin itonsií noyo'o ña kanina sindiki.
+
+<expresion>		Gas
+<se dice>		Náka'mi gas yó'o.
+<significa>		Voy a prender mi gas.
+<puede decirse>	Náka'mi tachi xíxi yó'o.
+
+<expresion>		Gato
+<se dice>		Náku'in satai in gato.
+<significa>		Voy a comprar un gato.
+<puede decirse>	Náku'in satai in chítun.
+
+<expresion>		Gavilán
+<se dice>		Náku'in kotoi nduxu sanai chi iyoní kaxiña'á gabilán.
+<significa>		Voy a ver mis gallinas porque si no se las van a comer los gavilanes.
+<puede decirse>	Náku'in kotoi nduxu sanai chi iyoní kaxiña'á si'ña.
+
+<expresion>		Giro
+<se dice>		Xi kixaa in jiro ña númi nda'ai.
+<significa>		Me llegó un giro muy importante.
+<puede decirse>	Xxi kixaa in tutundisoxu' Gn ña númi nda'ai.
+
+<expresion>		Gis
+<se dice>		Xin jis yo'o ka'yii.
+<significa>		Con este gis voy a pintar.
+<puede decirse>	Xin ñu'úkachi yo'o ka'yii.
+
+<expresion>		Gobierno
+<se dice>		Náku'in no ta gobierno Ñuuko'yó.
+<significa>		Voy a México a ver al gobierno.
+<puede decirse>	Náku'in no ta ndisochiño xin ña Ñuuko'yó.
+
+<expresion>		Gorgojo
+<se dice>		Ndeéni xaxí ti gorgojo nuníi.
+<significa>		El gorgojo pica mucho mi maíz.
+<puede decirse>	Ndeéni xaxí ti tikisi nuníi.
+
+<expresion>		Gorra
+<se dice>		Na chinói gorra sini sa'yai.
+<significa>		Voy a ponerle la gorra a mi hijo.
+
+<expresion>		Gotear
+<se dice>		Ndeéni kisagotear be'ei.
+<significa>		En mi casa gotea mucho.
+<puede decirse>	Ndeéni xi'in be'ei.
+
+<expresion>		Grabadora
+<se dice>		Chéeni grabadora kumiún.
+<significa>		Está muy grande la grabadora que tienes.
+<puede decirse>	Chéeni no ki'indusu kumiún.
+
+<expresion>		Grabar
+<se dice>		Ku'in kasagrabai ndusu na yibi.
+<significa>		Voy a grabar a las personas.
+<puede decirse>	Ku'in ki'in ndusu na yibi.
+
+<expresion>		Granja
+<se dice>		Anbása yasin nduxú granja.
+<significa>		No son sabrosas las gallinas de granja.
+<puede decirse>	Anbása yasin nduxú sá'an.
+
+<expresion>		Grava
+<se dice>		Xiniñú'ui graba kuba'a be'ei.
+<significa>		Necesito grava para mi casa.
+<puede decirse>	Xiniñú'ui yuukualí kuba'a be'ei.
+
+<expresion>		Gringo
+<se dice>		Iyoní na gringo ña Ñuuko'yó.
+<significa>		Hay muchos gringos en México.
+<puede decirse>	Iyoní na yaa ñuuxiyo ña Ñuuko' yó.
+
+<expresion>		Guamuchil
+<se dice>		Na ka'ndai guamuchil kaxíl.
+<significa>		Voy a cortar guamuchil para comer.
+<puede decirse>	Na ka'ndai tlchikó kaxíi.
+
+<expresion>		Guayabas
+<se dice>		Na ka'ndai guayaba kaxiyó.
+<significa>		Voy a cortar guayabas para que comamos.
+<puede decirse>	Na ka'ndai tikuaá yuu kaxiyó.
+
+<expresion>		Guitarra
+<se dice>		Na katal in yaa xin gitarra yó'o.
+<significa>		Voy a tocar una canción con esta guitarra.
+<puede decirse>	Na katai In yaa xin iton kumtí tuchu yó'o.
+
+<expresion>		Habitación
+<se dice>		Kininí kaá abitasión no íyoi.
+<significa>		Está muy sucia la habitación  donde vivo.
+<puede decirse>	Kininí kaá be'e no íyoi.
+
+<expresion>		Hacha
+<se dice>		Taxi acha na ndatái no titán yó'o.
+<significa>		Dame el hacha para que raje esta leña.
+<puede decirse>	Taxi kaandatá ñiton na ndatái no titon yó'o.
+
+<expresion>		Harina 
+<se dice>		Kixaaní a riña ña kuba'a sita ba'a.
+<significa>		Ya llegó la harina para hacer pan.
+<puede decirse>	Kixaaní yuchú yaa ña kuba'a sita ba'a. 
+
+<expresion>		Helicóptero
+<se dice>		Libiní elikóptero baxi káa.	
+<significa>		Está muy bonito el helicóptero que viene allá.
+<puede decirse>	Libiní tundachíkabasiki baxi káa.
+
+<expresion>		Herbicida
+<se dice>		Náku'in ki'in erbisida.
+<significa>		Voy a traer el herbicida.
+<puede decirse>	Na ku'in ki'in tajna xá'ni yuku.
+
+<expresion>		Hielo
+<se dice>		Náku'in ki'in icio ña chikai ndábisi kubixinra ko'oi.
+<significa>		Voy a comprar hielo para enfriar los refrescos.
+<puede decirse>	Naku'in ki'in kaxin ña chikai ndabisi kubixinra ko'oi.
+
+<expresion>		Higo
+<se dice>		Na ndaai no iton kan'tai igo kaxiyó.
+<significa>		Voy a subirme a ese árbol para cortar higo para comer.
+<puede decirse>	Na ndaai no iton kan'tai koxí kaxiyó.
+
+<expresion>		Hilo
+<se dice>		Nita'nda ilo núka'mái tikotoi.
+<significa>		Se reventó el hilo con el que estoy remendando mi ropa.
+<puede decirse>	Nita'nda yi'ba náka'mái tikotoi.
+
+<expresion>		Historia
+<se dice>		Naatú'un in istoria xí'in.
+<significa>		Platícame una historia.	
+<puede decirse>	Naatú'un in ña nixiyo xina'á xí'in.
+
+<expresion>		Hora
+<se dice>		Nda orakúña ndóoyo.	
+<significa>		En qué hora estamos.
+<puede decirse>	Nda kaá kúña ndóoyo.
+
+<expresion>		Hotel
+<se dice>		Libiní otcl sakán kúba'a káa.
+<significa>		Está muy bonito el hotel que apenas están construyendo.
+<puede decirse>	Libiní be'e nu kisitátina kuba'a káa.
+
+<expresion>		Huarache
+<se dice>		Xanita'nda uaraclie ñú'u xa'ái.
+<significa>		Ya se rompió mi huarache.
+<puede decirse>	Xanita'nda nduxan ñú'u xa'ái.
+
+<expresion>		Iguana
+<se dice>		Náku'in yuku ka'ni iguana kaxiyó.
+<significa>		Voy al corro a matar iguana para comer.	
+<puede decirse>	Náku'in yuku ka'ni tichí kaxiyó.
+
+<expresion>		Indígena
+<se dice>		Yóo na ká'an tu'un sabi kuyó indíjena.
+<significa>		Los que hablamos mixteco somos indígenas.
+<puede decirse>	Yóo na ká'an tu'un sabi kuyó na ndá' bi. 
+
+<expresion>		Internado
+<se dice>		Internado nakaa sa'yai ká'bira.
+<significa>		Mi hijo está estudiando en un internado.
+<puede decirse>	Nu xixi nakualínda'bi nakaa sa'yai ká'bira.
+
+<expresion>		Invitación
+<se dice>		Náchikai in inbitasión ña kixi ndi'i na ñuu.
+<significa>		Voy a invitar a todos los pueblos para que vengan.
+<puede decirse>	Náchikai in tutu ña kixi ndi'i na ñuu.
+
+<expresion>		Inyección
+<se dice>		Na kanii in inyeksión ña nana yó'o.
+<significa>		Voy a ponerle una inyección a la señora.
+<puede decirse>	Na kanii tuku ña nana yó'o.
+
+<expresion>		Jarana
+<se dice>		Talo'o káa sáka'ara in jarana.
+<significa>		Aquel niño toca una jarana.
+<puede decirse>	Talo'o káa sáka'ara in ñuú.
+
+<expresion>		Jardín
+<se dice>		Káa íyo in jardín.	
+<significa>		Allá está un jardín.
+<puede decirse>	Káa íyo in tikuita íyo yita.
+
+<expresion>		Jícara
+<se dice>		Satañá kua'aní jíkara ta nixa'a ña Tanda'yi bitin.
+<significa>		Ella compró muchas jícaras ahora que fue a Tlapa.
+<puede decirse>	Satañá kua'aní yaxin ta nixa'a ña Tanda'yi bitin.
+
+<expresion>		Jugo
+<se dice>		Kúni ko'oi jugo kui'i.
+<significa>		Quiero tomar jugo de fruta.
+<puede decirse>	Kúni ko'oi ndutá kui'i.
+
+<expresion>		Juguete
+<se dice>		Kua'aní jugete talo'o káa.
+<significa>		Es mucho el juguete de ese  muchacho.
+<puede decirse>	Kua'aní ña sasikí talo'o káa.
+
+<expresion>		Junta
+<se dice>		Kánandi na ñuu na kixina junta chi xa kixa'aña.	
+<significa>		Hacemos un llamado a todos los vecinos a que se concentren  porque ya va a dar inicio la junta.
+<puede decirse>	Kánandi na ñuu na kixina chi xa kixa'a kunani tondíni.
+
+<expresion>		Kinder
+<se dice>		Na'áka xino kuiya sa'yai ta xi kua'ara kinder.
+<significa>		Aún no cumple años mi hijo y ya asiste al kinder.
+<puede decirse>	Na'áka xino kuiya sa'yai ta xi kua'ara no sakua'a nakualí sakan kixa'á ká'bi.
+
+<expresion>		Lamina
+<se dice>		Ña lámina iyo be'eún xa yatánia.
+<significa>		La lámina que tienes en tu casa ya está muy vieja.
+<puede decirse>	Ña tutu ndasi sini be'eún xa yatánia.
+
+<expresion>		Lapicero
+<se dice>		Naku'in xa'á in lapisero, ta kixai tiká'an.
+<significa>		Voy por un lapicero, luego  regreso.
+<puede decirse>	Naku'in xa'á in no kumii nduta ká'yi, ta kixai tiká'an.
+
+<expresion>		Lápiz
+<se dice>		Taxi lápi káa na taai.
+<significa>		Dame ese lápiz para que yo  escriba.
+<puede decirse>	Taxi no iton tikayi na taai.
+
+<expresion>		Lata
+<se dice>		Na taín sa'án ini lata yó'o.
+<significa>		Voy a echar la manteca en esta lata.
+<puede decirse>	Na taín sa'án ini káa yó'o.
+
+<expresion>		Leche
+<se dice>		Xa nixiyá nda leche.
+<significa>		Ya se acedo la leche.
+<puede decirse>	Xa nixiyá nda nduta yaa kee ndoso.
+
+<expresion>		Lente
+<se dice>		Santáñu'ui lente ndikáa noí.
+<significa>		Perdí mi lente que ocupo.
+<puede decirse>	Santáñu'ui yuutáatá ndikáa noí.
+
+<expresion>		León
+<se dice>		Nisi'bí in león yi'i.
+<significa>		Me espantó un león.
+<puede decirse>	Nisi'bí in ndika'a yi'i.
+
+<expresion>		Letra
+<se dice>		Na taai no tutu y tí o xi letra ta ti'bía no ki'bíi.
+<significa>		Voy a escribir unas letras en este papel y se lo voy a mandar a mi hermana.	
+
+<expresion>		Librero
+<se dice>		Táan satai in librero.
+<significa>		Mañana voy a comprar un librero.
+<puede decirse>	Táan satai in no taxiba'a tutu ká' bina.
+
+<expresion>		Libro
+<se dice>		Yi'i kúnii in libro sakúa'ai chi xa xíniba'ai ka'bí.
+<significa>		Quiero un libro para estudiar porque ya sé leer.
+<puede decirse>	Yi'i kúnii in tutu ña ka'bina sakúa'ai chi xa xíniba'ai ka'bí.
+
+<expresion>		Licencia
+<se dice>		Xa kumii lisensia ña kakai xin no xiko na yibi xaá satai.
+<significa>		Ya tengo licencia de manejar el carro nuevo que compré.
+<puede decirse>	Xa kumii tutundayí ña kakai xin no xiko na yibi xaá satai.
+
+<expresion>		Licenciado
+<se dice>		Náku'in kotoi ta lisensiado nándasandibira kuachi kumii.
+<significa>		Voy a ver al licenciado para que resuelva mis problemas.
+<puede decirse>	Naku'in kotoi tandásandibi kuachi nándasandibira kuachi kumii.
+
+<expresion>		Licuadora
+<se dice>		Na ke'ei taya'á kuxii xin likuadora yó'o.
+<significa>		Voy a hacer salsa para que yo coma con esta licuadora.
+<puede decirse>	Na ke'ei taya'a kuxii xin kaá ndíko ña'a yó'o.
+
+<expresion>		Liga
+<se dice>		Na satai uxi liga.	
+<significa>		Voy a comprar diez ligas.
+<puede decirse>	Na satai uxi tuchi kualí ndée.
+
+<expresion>		Limón
+<se dice>		Kuá'a kaya ti limo na kuba'a takui bisi.
+<significa>		Vete a traer limones para hacer agua fresca.
+<puede decirse>	Kua'a kaya ti iya na kuba'a takui bisi.
+
+<expresion>		Limón dulce
+<se dice>		Taxi limón bisi na kaxiyó.
+<significa>		Dame el limón dulce para comer.
+<puede decirse>	Taxi tikuaá kualí bisi na kaxiyó.
+
+<expresion>		Linterna
+<se dice>		Ba'aní túun linterna sakán satai.
+<significa>		Enciende muy bien la linterna que apenas compré.
+<puede decirse>	Ba'aní túun ñu'u xinóo sinina sakán satai.
+
+<expresion>		Listón
+<se dice>		Satai listón kunu'ni sini ki'bai.
+<significa>		Compré listón para el cabello de mi hermana.
+<puede decirse>	Satai tikoto libi kunu'ni sini ki'bai.
+
+<expresion>		Lobo
+<se dice>		Ti lobo yó'o ni abása kue'erí.
+<significa>		Este lobo no es bravo.
+<puede decirse>	Ti titií yó'o ni abása kue'erí.
+
+<expresion>		Loco
+<se dice>		In ta loko xinii ichi káa.
+<significa>		Vi un loco en la calle.	
+<puede decirse>	In ta sana xinii ichi káa.
+
+<expresion>		Locutor
+<se dice>		Yi'i ku lokutor ká'an "Be'e ndusu kiún'un".	
+<significa>		Yo soy locutor de "La voz de la montaña".
+<puede decirse>	Yi'i ka'an "Be'e ndusu kiún'un".
+
+<expresion>		Luz	
+<se dice>		Natuu lus chi naaní.
+<significa>		Enciende la luz porque esta muy oscuro.
+<puede decirse>	Natuu ñu'u chi naaní.
+
+<expresion>		Llanta
+<se dice>		Ikan kandi'i in yanta xaá.
+<significa>		Allá está una llanta nueva.
+<puede decirse>	Ikan kandi'i in tikuita nduxan itón xaá.
+
+<expresion>		Llave
+<se dice>		Bitin xa nani'í yabe yé'eyo.
+<significa>		Ya encontré la llave de nuestra puerta.
+<puede decirse>	Bitin xa nani'í kaa nákuna yé'eyo.
+
+<expresion>		Llavero
+<se dice>		Libiní yabero xaá.
+<significa>		Está muy bonito el llavero nuevo.
+<puede decirse>	Libiní ña ndiso kaa nakuna yé'e xaá.
+
+<expresion>		Maceta
+<se dice>		Libiní masetai.
+<significa>		Está muy bonita mi maceta.
+<puede decirse>	Libiní ña no ñú'u itai.
+
+<expresion>		Maestro
+<se dice>		Ta maestro íyo ñuui ndeéni ndo'ora kue'e kúun ini.
+<significa>		El maestro de mi pueblo está enfermo de diarrea.
+<puede decirse>	Ta sána'a íyo ñuui ndeéni ndo'ora kue'e kúun ini.
+
+<expresion>		Mamila
+<se dice>		Taxi mamila na chichín ñalo'o.
+<significa>		Dale la mamila al bebé para que mame.
+<puede decirse>	Taxi lanba ñú'u nda chichín ñalo'o na chichía.
+
+<expresion>		Manguera
+<se dice>		Náku'in satai mangera ña ki'in takuí.
+<significa>		Voy a comprar manguera para que yo agarre agua.
+<puede decirse>	Náku'in satai xiti ndaka ña ki'in takuí.
+
+<expresion>		Manta
+<se dice>		Náku'in satai manta kundixi.
+<significa>		Voy a comprar manta para que yo me ponga.
+<puede decirse>	Náku'in satai tikoto yaa kundixi.
+
+<expresion>		Manzana
+<se dice>		Kutóni kaxí mansana.
+<significa>		Me gusta comer manzana.
+<puede decirse>	Kutóni kaxí tinúmi sa'án.
+
+<expresion>		Máquina (de coser)
+<se dice>		Na ka'ain xí'in sisi kukuñá tikotoi xi'in mákina.
+<significa>		Le voy a decir a mi tía que me cosa mi ropa con la maquina.
+<puede decirse>	Na ka'ain xí'n sisi kukuñá tikotoi xi'in no kaa kúku.
+
+<expresion>		Máquina (de escribir)
+<se dice>		Sátati no mákina na taai in tutu.
+<significa>		Préstame la maquina para  escribir un papel.
+<puede decirse>	Sátati no kaa táa na taai in tutu.
+
+<expresion>		Mar
+<se dice>		Yá'aní ka'no la mar.
+<significa>		Qué grande es la mar.
+<puede decirse>	Yá'aní ká'no tañú'u.
+
+<expresion>		Mariposa
+<se dice>		Na tiin mariposa yó'o kusikí xin talo'o káa.
+<significa>		Voy a agarrar esta mariposa para que juegue aquel niño.
+<puede decirse>	Na tiin tikiba yó'o kusikí xin talo'o káa.
+
+<expresion>		Marro
+<se dice>		Beéni marro satai.
+<significa>		Pesa mucho el marro que compré.
+<puede decirse>	Beéni kaa ta'bi yuu satai.
+
+<expresion>		Máscara	
+<se dice>		Nachikai mílskara yó'o noí.
+<significa>		Voy a ponerme esta máscara.
+<puede decirse>	Nachikai ndia'nál yó'o noí.
+
+<expresion>		Mecánico
+<se dice>		Náku'in xin no xiko nayibi nda'anó no ta mekánico.
+<significa>		Voy a llevar mi carro con el mecánico.
+<puede decirse>	Náku'in xin no xiko nayibi nda'anó no ta sánda'a no iton xiko nayibi.
+
+<expresion>		Médico
+<se dice>		Naku'in no ta médiko kutajnai.
+<significa>		Voy con el médico a curarme.
+<puede decirse>	Náku'in no ta kisatajna nayibi kutajnai.
+
+<expresion>		Medidor
+<se dice>		Nitibí medidor takuí ña xiniñu'ui.
+<significa>		Se descompuso el medidor del agua que yo ocupo.
+<puede decirse>	Nitibí ña chú'un takuí ña xiniñu'ui.
+
+<expresion>		Mercado
+<se dice>		Yó'o íyo nierkado, kuaya'a.
+<significa>		Aquí es el mercado, pásale.
+<puede decirse>	Yó'o íyo be'e no sikona ña'a, kuaya'a. 
+
+<expresion>		Mesa
+<se dice>		Na kundi'i kuxi no mesa káa.
+<significa>		Voy a sentarme a comer en esa mesa.
+<puede decirse>	Na kundi'i kuxi no biti kúmii kumi xa'a káa.
+
+<expresion>		Mesabanco
+<se dice>		Naku'in be'e no ka'bina ta koi no mesabanko.
+<significa>		Voy a ir a la escuela y me voy a sentar en el mesabanco.
+<puede decirse>	Naku'in be'e no ka'bina ta koi no bíti táa nakualí.
+
+<expresion>		México
+<se dice>		Náku'in México kachíñoi.
+<significa>		Voy a México a trabajar.
+<puede decirse>	Naku'in Ñuuko'yó kachiñoi.
+
+<expresion>		Micrófono
+<se dice>		Xa yatáni mikrófono.
+<significa>		Ya está muy viejo el micrófono.
+<puede decirse>	Xa yatáni ña kaa sáya'a ndusu.
+
+<expresion>		Millonario
+<se dice>		Be'e in ta miyonario káchiñoi.
+<significa>		Trabajé en la casa de un  millonario.
+<puede decirse>	Be'e in ta kuikaní káchiñoi.
+
+<expresion>		Mina
+<se dice>		Naku'in no íyo mina tabai ña kuíka.
+<significa>		Voy a la mina a sacar riqueza.
+<puede decirse>	Náku'in no iyo yuúba'a tabai ña kuíka.
+
+<expresion>		Minsa
+<se dice>		Táan ku'in satai minsa ña kuxiyó.
+<significa>		Mañana voy a comprar minsa para que comamos.
+<puede decirse>	Táan ku'in satai yaayuxa ña kuxiyó.
+
+<expresion>		Misa
+<se dice>		Náku'in misa be'eñu'u.
+<significa>		Voy a misa a la iglesia.
+
+<expresion>		Mixteco
+<se dice>		Kúka'an noi ka'ain miksteko.
+<significa>		Me da pena hablar el mixteco.
+<puede decirse>	Kúka'an noi ka'ain tu'un sábi.
+
+<expresion>		Mole
+<se dice>		Yasiní mole xixiyó be'ei.
+<significa>		Estuvo muy sabroso el mole que comimos en mi casa.
+<puede decirse>	Yasiní ndayí xixiyó be'ei.
+
+<expresion>		Molino
+<se dice>		Ña xaá ku molino ñuui.
+<significa>		Es nuevo el molino de mi pueblo.
+<puede decirse>	Ña xaá ku kaa ta'bí xá'a ñuui.
+
+<expresion>		Moneda
+<se dice>		Beéni moneda, ñakan axiín kundisoiña.
+<significa>		Pesan mucho las monedas, por eso no las quiero cargar.
+<puede decirse>	Beéni xu'ún kaa, ñakan axiín kundisoiña.
+
+<expresion>		Montura
+<se dice>		Libiní montura kuáyi sanai.
+<significa>		Está muy bonita la montura de mi caballo.
+<puede decirse>	Libiní tayi kuáyi sanai.
+
+<expresion>		Morillo
+<se dice>		Táan ku'in ka'ndai moriyo kuba'a be'ei.
+<significa>		Mañana voy a cortar morillo para construir mi casa.
+<puede decirse>	Táan ku'in ka'ndai ndaba kuba'a be'ei.
+
+<expresion>		Motocicleta
+<se dice>		Kutoí kosoi in motosikleta.
+<significa>		Quiero usar una motocicleta.
+<puede decirse>	Kotoi kosoi in no kúmil tikuita xa'a ta in tayino.
+
+<expresion>		Muro
+<se dice>		Na ndai chi no muro yó'o.
+<significa>		Me voy a subir en este muro.
+<puede decirse>	Na ndai cho no nama yó'o.
+
+<expresion>		Música
+<se dice>		Tibindó on yaa na kuniso'oyó ndo'o na músika.
+<significa>		Toquen una canción para que escuchemos.
+<puede decirse>	Tibindó in yaa na kuniso'oyó ndo'o na tíbi.
+
+<expresion>		Nadar
+<se dice>		Ta Raúl kisanadara takuí yita.
+<significa>		Raúl está nadando en el río.
+<puede decirse>	Ta Raúl isotiára takuí yita.
+
+<expresion>		Naranja
+<se dice>		Naku'in noya'bi satai naranja.
+<significa>		Voy al mercado a comprar  naranja.
+<puede decirse>	Naku'in noya'bi satai tikuaá.
+
+<expresion>		Navaja
+<se dice>		Kutoní kuni'i nabaja.
+<significa>		Me gusta mucho cargar una  navaja.
+<puede decirse>	Kutoní kuni'i kaa siin noo.
+
+<expresion>		Nieto
+<se dice>		Kumii in nieto.
+<significa>		Tengo un nieto.
+<puede decirse>	Kumii in sa'yañáni.
+
+<expresion>		Nuez
+<se dice>		Satai nues kaxiyó.
+<significa>		Compré nuez para comer.
+<puede decirse>	Satai tikíba'a kaxiyó.
+
+<expresion>		Oaxaca
+<se dice>		Bitin kée ta tata kua'ara chi Oaxaca.
+<significa>		Hoy sale el señor para Oaxaca.
+<puede decirse>	Bitin kée ta tata kua'ara chi Ñuunde'e.
+
+<expresion>		Ocote
+<se dice>		Naku'in ki'in okote natuuin.
+<significa>		Voy a traer ocote para encender.
+<puede decirse>	Naku'in ki'in yiti natuuin.
+
+<expresion>		Oficio
+<se dice>		Kixaa in ofisio nda'ái.
+<significa>		Me llegó un oficio.
+
+<expresion>		Organizar
+<se dice>		Xiniñú'u kasaorganisaryo ña kunani in tundíni.
+<significa>		Tenemos que organizamos para tratar un asunto.
+<puede decirse>	Xiniñú'u kuta'ayó ña kunani in tundíni.
+
+<expresion>		Otate
+<se dice>		Naku'in yuku ki'in otate.
+<significa>		Voy al cerro a traer otate.
+<puede decirse>	Naku'in yuku ki'in tu tíin.
+
+<expresion>		Padrastro
+<se dice>		Xa nixi'i padrastroi.
+<significa>		Ya se murió mi padrastro.
+<puede decirse>	Xa nixi'i yibanda'bii.
+
+<expresion>		País
+<se dice>		Nayibi káa baxina inka país.
+<significa>		Esa gente viene de otro país.
+<puede decirse>	Nayibi kaa baxina ñuuxiyo.
+
+<expresion>		Pala
+<se dice>		Na tabai ñu'u xin pala yó'o.
+<significa>		Voy a sacar tierra con esta pala.
+<puede decirse>	Na tabai ñu'u xin kaa ndíka yó'o.
+
+<expresion>		Paleta
+<se dice>		Naku'in satai in paleta kaxíi.
+<significa>		Voy a comprar una paleta para comer.
+<puede decirse>	Naku'in satai in ña bixin nánii itón xa'a kaxíi.
+
+<expresion>		Paloma
+<se dice>		Naku'in tiín ti paloma kua'a kaa.
+<significa>		Voy a agarrar la paloma que ya allá.
+<puede decirse>	Naku'in tiín ti satalo'o kua'a káa.
+
+<expresion>		Pan
+<se dice>		Sata pan na kasiniyó.
+<significa>		Compra pan para que  desayunemos.
+<puede decirse>	Sata sitaba'a na kasiniyó.
+
+<expresion>		Panadería
+<se dice>		Sakán xikoo in panadería yatin yó'o.
+<significa>		Apenas se puso una panadería aquí cerca.
+<puede decirse>	Sakan xikoo no kiá'bi sitaba'a yatin yó'o.
+
+<expresion>		Pantaleta
+<se dice>		Xanita'nda pantaleta xaá ñálo'o Filomena.
+<significa>		Ya se rompió la pantaleta nueva de la niña Filomena.
+<puede decirse>	Xanita'nda xati xaá nakaa ka'a ñálo'o Filomena.
+
+<expresion>		Pantalón
+<se dice>		Naku'in Tanda'yi ta ki'in in pantalón xaá kundixi.
+<significa>		Cuando vaya a Tlapa me  compraré un pantalón nuevo.
+<puede decirse>	Náku'in Tanda'yi ta ki'in in xati xaá kundixi.
+
+<expresion>		Papa
+<se dice>		Na chinoi papa kuisori kaxiyó.
+<significa>		Voy a hervir las papas para comer.
+<puede decirse>	Na chinoi tikuití kuisori kaxiyó.
+
+<expresion>		Papel
+<se dice>		Na satai in siento papel.
+<significa>		Voy a comprar un ciento de papel.
+<puede decirse>	Na satai in siento tutu.
+
+<expresion>		Paquete
+<se dice>		Saái obi pakete yaá noni.
+<significa>		Compré dos paquetes de minsa.
+<puede decirse>	Satai obi tutuná'no yaá noni.
+
+<expresion>		Pasaje
+<se dice>		Ya'biní cha'bi pasaje.
+<significa>		Pagué muy caro el pasaje.
+<puede decirse>	Ya'biní clia'bi xinói xata no xíko nayibi.
+
+<expresion>		Pasante
+<se dice>		Ta Ubaldo kira in pasante ña filosofía.
+<significa>		Ubaldo es un pasante de filosofía.
+<puede decirse>	Ta Ubaldo kira in taxiniya'a ña filosofía.
+
+<expresion>		Paseo
+<se dice>		Unda yuku chée kaa nixa'andi paseo tan saá.
+<significa>		Aquella vez fuimos a pasear hasta aquel cerro grande.
+<puede decirse>	Unda yuku chée kaa nixa'andi xitonda'yándi tan saá.
+
+<expresion>		Pato
+<se dice>		Naka'ní pato yó'o kuxiyó.
+<significa>		Voy a matar este pato para  comer.
+<puede decirse>	Naka'ní nduxukui tixa'a yó'o kuxiyó.
+
+<expresion>		Pavorreal
+<se dice>		Be'ei iyo in ti paborreal ta libiniri.
+<significa>		En mi casa tengo un pavorreal bien bonito.
+<puede decirse>	Be'ei iyo in ti tiun yuku ta libiniri.
+
+<expresion>		Pelota
+<se dice>		Kó'o kusikiyó pelota no kancha.
+<significa>		Vamos a jugar pelota en la  cancha.
+<puede decirse>	Kó'o kusikiyó ti bola ndaba nondíka káa.
+
+<expresion>		Peluquero
+<se dice>		Naku'in xin ta pelukero satára siníi.
+<significa>		Voy con el peluquero para que me rasure.
+<puede decirse>	Naku'in xin ta sáata satára siníi.
+
+<expresion>		Pera
+<se dice>		Na satai pera kaxiyó.
+<significa>		Voy a comprar pera para comer.
+<puede decirse>	Na satai ti kuíi kée ñuu ba'a kaxiyó.
+
+<expresion>		Perfume
+<se dice>		Satai perfume ña tamí xá'an.
+<significa>		Compré un perfume de olor  bonito.
+<puede decirse>	Satai nda tamí xá'an.
+
+<expresion>		Permiso
+<se dice>		Taxi permiso, naku'in kusikí si'í.
+<significa>		Dame permiso, voy a jugar mamá.
+<puede decirse>	Taxi ndayí, naku'in kusikí si'í.
+
+<expresion>		Petró1eo
+<se dice>		Ya'biní ndaa petróleo.
+<significa>		Está muy caro el petróleo.
+<puede decirse>	Ya'biní ndaa nda túun.
+
+<expresion>		Pico
+<se dice>		Naku'in katai xin piko yó'o.
+<significa>		Voy a escarbar con este pico.
+<puede decirse>	Naku'in katai xin kaa kani noo yó'o.
+
+<expresion>		Pintura
+<se dice>		Naku'in satai pintura naka'yi be' ei.
+<significa>		Voy a comprar pintura para  pintar mi casa.
+<puede decirse>	Naku'in satai nduta taku naka'yi be'ei.
+
+<expresion>		Pinzas
+<se dice>		Xiniñú'ui pinsas naka'noi kaa yó'o.
+<significa>		Necesito unas pinzas para doblar este alambre.
+<puede decirse>	Xiniñú'ui in kaa ña xa'no yo'ó kaa naka'noi kaa yó'o.
+
+<expresion>		Piña
+<se dice>		Bisiní ti piña kaxindi.
+<significa>		Está muy dulce la piña que  vamos a comer.
+<puede decirse>	Bisiní ti kuán bisi kaxindi.
+
+<expresion>		Piñata
+<se dice>		Libiní piñataún.
+<significa>		Está muy bonita tu piñata.
+<puede decirse>	Libiní ña ñú'u ña'a ta'bí nakualí kúmiun.
+
+<expresion>		Piso
+<se dice>		Na kusui no piso yó'o.
+<significa>		Voy a dormirme en el piso.
+<puede decirse>	Na kusui no ñu'undíi ta'yá yó'o.
+
+<expresion>		Pistola
+<se dice>		Xin pistola xa'niná in taá.
+<significa>		Con una pistola mataron a un hombre.
+<puede decirse>	Xin noxií lo'o xa'niná in taá.
+
+<expresion>		Pizarrón
+<se dice>		Na taai noo pisarrón.
+<significa>		Voy a escribir en el pizarrón.
+<puede decirse>	Na taai no tutundíka sána'a nakualí.
+
+<expresion>		Plancha
+<se dice>		Xanitibí planchai.
+<significa>		Ya se descompuso mi plancha.
+<puede decirse>	Xanitibí kaa sándi'bi tikotói.
+
+<expresion>		Plástico
+<se dice>		Na ki'in plástiko yó'o.
+<significa>		Voy a agarrar este plástico.
+<puede decirse>	Na ki'in ñíi ndaka yó'o.
+
+<expresion>		Playa
+<se dice>		Kusiní ini nixa'ai playa Acapulco.
+<significa>		Me dio mucho gusto ir a la  playa de Acapulco.
+<puede decirse>	Kusiní ini nixa'ai noo yotí Acapulco.
+
+<expresion>		Policía
+<se dice>		Naku'in kotoi ta polisía.
+<significa>		Voy a ver al policía.
+<puede decirse>	Naku'in kotoi ta ndáa ye'e be'e kaa.
+
+<expresion>		Polidor
+<se dice>		Naku'in kotoi ta polidor a kúmira inka ña'a.
+<significa>		Voy a ver al polidor a ver si tiene otras cosas más.
+<puede decirse>	Naku'in kotoi ta taba se'é inka ña'a a kumira inka ña'a.
+
+<expresion>		Pólvora
+<se dice>		Naku'in satai pólbora ña kuniñú'ui.
+<significa>		Voy a comprar pólvora para utilizar.
+<puede decirse>	Naku'in satai ñu'u ká'ndi kuniñú'ui.
+
+<expresion>		Pomada
+<se dice>		Sani'í lo'o pomada nda'ai.
+<significa>		Regálame un poco de pomada.
+<puede decirse>	Sani'í lo'o yuxan tajna nda'ai.
+
+<expresion>		Portón
+<se dice>		Naku'in nakuinai portón.
+<significa>		Voy a abrir el portón.
+<puede decirse>	Naku'in nakuinai yé'e ndíka.
+
+<expresion>		Poste
+<se dice>		Xi tá'yi xa'a no poste.
+<significa>		Ya se está pudriendo el pie del poste.
+<puede decirse>	Xi ta'yi xa'a no ito ndakú.
+
+<expresion>		Pozole
+<se dice>		Ko'yó kaxiyó posole be'ei.
+<significa>		Vamos a comer pozole en mi casa.
+<puede decirse>	Ko'yó kaxiyó ndakú be'ei.
+
+<expresion>		Presidencia (municipal)
+<se dice>		Iyo be'e chiño ñuui ña nani presidensia.
+<significa>		Hay presidencia en mi pueblo.
+<puede decirse>	Iyo be'e chiño ñuui ña nani be'e chiño ká'no.
+
+<expresion>		Puente
+<se dice>		Na ya'ai chi no puente kaá.
+<significa>		Voy a pasar por el puente.
+<puede decirse>	Na ya'ai chi yichi ká'no no takui kaá.
+
+<expresion>		Puesto
+<se dice>		Ba'aní sikoi no puesto yóo.
+<significa>		Vendo muy bien en este puesto.
+<puede decirse>	Ba'aní sikoi no kiá'bi ña'a yóo.
+
+<expresion>		Pulque
+<se dice>		Taxi pulke na ko'oi.
+<significa>		Dame pulque para tomar.
+<puede decirse>	Taxi ndixi kuxín na ko'oi.
+
+<expresion>		Queso
+<se dice>		No ya'bi kia'biní keso.
+<significa>		En el mercado hay queso de venta.
+<puede decirse>	No ya'bi kia'biní yuxa yaa sindiki.
+
+<expresion>		Rábano
+<se dice>		Náku'in satai rábano kaxiyó.
+<significa>		Voy a comprar rábano para comer.
+<puede decirse>	Naku'in satai ndia'mi kaxiyó.
+
+<expresion>		Radio
+<se dice>		No radio xi yatá ninu.
+<significa>		Mi radio está muy viejo.
+<puede decirse>	No iton xita kumíi xi yatá ninu.
+
+<expresion>		Rastrillo
+<se dice>		Na ki'i in rastriyo satai yu'ui.
+<significa>		Voy a comprar un rastrillo para rasurarme la barba.
+<puede decirse>	Na satai ña sa'atá su'u satai yu'ui.
+
+<expresion>		Ratón
+<se dice>		Na ka'ní ti ratón niki'bi yabi káa.
+<significa>		Voy a matar ese ratón que se metió en ese agujero.
+<puede decirse>	Na ka'ní ti tiín niki'bi yabi káa.
+
+<expresion>		Rebozo
+<se dice>		Ña xaá ku reboso ña nana káa.
+<significa>		Es nuevo el rebozo de esa señora.
+<puede decirse>	Ña xaá ku pañu ña nana káa.
+
+<expresion>		Refaccionaria
+<se dice>		Kuá'an sata kaa íyo refaksionaria no nixa'ayó koni.
+<significa>		Vete a comprar fierro en la  refaccionaria donde fuimos ayer.
+<puede decirse>	Kuá'an satá kaa íyo be'e no kia'bi kaa kuachi no nixa'ayó koni.
+
+<expresion>		Reflector
+<se dice>		Xa satón reflektor xaá.
+<significa>		Ya compraste tu reflector nuevo.
+<puede decirse>	Xa satón ñu'u túun xaá.
+
+<expresion>		Refresco
+<se dice>		Ndibe'e xi'i in refresko.
+<significa>		Hace rato tomé un refresco.
+<puede decirse>	Ndibe'e xi'i in ndábisi.
+
+<expresion>		Refrigerador
+<se dice>		Na natunyo refrijerador ña ndiko takuí ko'oyó.
+<significa>		Voy a conectar el refrigerador para que se enfríe el agua.
+<puede decirse>	Na natunyo ña síndiko ña'a ña ndiko takuí ko'oyó.
+
+<expresion>		Regla
+<se dice>		Nita'no regla káchiñoi.
+<significa>		Se quebró la regla que ocupo.
+<puede decirse>	Nita'no no itón taba ki'ba kachiñoi.
+
+<expresion>		Reja
+<se dice>		Kutuní reja yé'e ta sutu káa.
+<significa>		Está muy fuerte la reja de la puerta del sacerdote.
+<puede decirse>	Kutuní kaa yé'e ta sutu káa.
+
+<expresion>		Reloj
+<se dice>		Relóo xaá kúña nákaa nda'ún.
+<significa>		Es nuevo el reloj que tienes puesto.
+<puede decirse>	Kaa xaá kúña nákaa nda'ún.
+
+<expresion>		Renta
+<se dice>		Ku'ín koi in renta.
+<significa>		Voy a rentar donde voy a vivir.
+<puede decirse>	Ku'ín koi in be'etáti.
+
+<expresion>		Repaso
+<se dice>		Na kasarrepasai ña saná'ana yi'i.
+<significa>		Voy a repasar lo que me  enseñaron.
+<puede decirse>	Na sáya'ai ña saná'ana yi'i.
+
+<expresion>		Repisa
+<se dice>		Na kotoi no repisa yó'o a káno kuikai.
+<significa>		Voy a ver en mi repisa si esta mi peine.
+<puede decirse>	Na kotoi no bitiyó'o a kano kuikai.	
+
+<expresion>		Resistol
+<se dice>		Taxilo'o resistol nda'ai.
+<significa>		Dame tantito resistol.
+<puede decirse>	Taxilo'o ña tíindaa nda'ái.
+
+<expresion>		Rifle
+<se dice>		Libiní rifle sata ta Agustino.
+<significa>		Está muy bonito el rifle que  compró Agustino.
+<puede decirse>	Libiní noxií satá ta Agustino.
+
+<expresion>		Ropero
+<se dice>		Ini ropero ñú'u tikoto.
+<significa>		Dentro del ropero hay ropa.
+<puede decirse>	Ini xatón xíkuba'atikoto ñú'u tikoto.
+
+<expresion>		Sacapuntas
+<se dice>		Chéeni sakapuntas ña Margarita.
+<significa>		Está muy grande el sacapuntas de Margarita.
+<puede decirse>	Chéeni ña taba sini no ká'yi kumii ña Margarita.
+
+<expresion>		Sacerdote
+<se dice>		Naku'in no saserdote íyo be'e ñu'u.
+<significa>		Voy a ver al sacerdote en la iglesia.
+<puede decirse>	Naku'in no sutu íyo be'e ñu'u.
+
+<expresion>		Saludo
+<se dice>		Ti'bíi in saludo ku'un nda'ána.
+<significa>		Les voy a mandar un saludo.
+<puede decirse>	Ti'bíi in tu'unmáni ku'un nda'ána.
+
+<expresion>		Sandía
+<se dice>		Na ku'un in sandía xi'iyo.
+<significa>		Vamos a llevar una sandía.
+<puede decirse>	Na ku'un in ti ñikin kuá'a ini xi'iyó.
+
+<expresion>		Sarampión
+<se dice>		Ña Apolonia ndeéni ndó'oña sarampión.
+<significa>		Apolonia está muy enferma de sarampión.
+<puede decirse>	Ña Apolonia ndéeni ndó'oña ndi'i kuá'a.
+
+<expresion>		Segueta
+<se dice>		Satai in segeta ña kan'ndai bitíyó'o.
+<significa>		Voy a comprar una segueta para cortar esta tabla.
+<puede decirse>	Satai in kaa ña xán'ta biti kan'ndai bitiyó'o.
+
+<expresion>		Sello
+<se dice>		Náku'in xin tutui ña kanina seyo noa.
+<significa>		Voy con mis papeles para que los sellen.
+<puede decirse>	Náku'in xin tutui ña kanina kibiba'ana noa.
+
+<expresion>		Semental
+<se dice>		Naku'in xin kini sanai no iyo ti kití semental.
+<significa>		Voy con mi cerdo a donde hay un animal que se llama semental.
+<puede decirse>	Naku'in xin kini sanai no iyo ti kití kinichée.
+
+<expresion>		Señorita
+<se dice>		Ña señorita káa kua'aña ichí.
+<significa>		Esa señorita camina por la calle.
+<puede decirse>	Ña ña'a kuáan káa kua'aña ichí.
+
+<expresion>		Serrote
+<se dice>		Nita'no serrote káchiñoi.
+<significa>		Se quebró el serrote con que trabaj o.
+<puede decirse>	Nita'no kaa xa'nda biti káchiñoi.
+
+<expresion>		Sierre
+<se dice>		Na satai in sierre kunaka tikotoi.
+<significa>		Voy a comprar un sierre para mi ropa.
+<puede decirse>	Na satai in tikotolo'o ndondaa kaakualí yu'u kunaka tikotoi.
+
+<expresion>		Silbato
+<se dice>		Na tibí silbato ña kixi nakualí ka'bina.
+<significa>		Voy a silbar el silbato para que vengan los niños a clases.
+<puede decirse>	Na tibí tibíloo ña kixi nakualí ka'bina.
+
+<expresion>		Silla
+<se dice>		Taxi in siya na koi.
+<significa>		Dame una silla para sentarme.
+<puede decirse>	Taxi in tayi na koi.
+
+<expresion>		Sillón
+<se dice>		Na koi no siyóm yó'o.
+<significa>		Voy a sentarme en este sillón.
+<puede decirse>	Na koi no tayiba'a yó'o.
+
+<expresion>		Sincero
+<se dice>		Talo'ó káa sinseroníra.
+<significa>		Ese muchacho es muy sincero.
+<puede decirse>	Talo'o káa ndakúni ká'ara.
+
+<expresion>		Soldado
+<se dice>		¿Ndachun íyoni soldado ñuuyó si'í?
+<significa>		¿Por qué hay muchos soldados en nuestro pueblo mamá?
+<puede decirse>	¿Ndachun íyoni na ndíxi tikotokuíi ñuuyó si'í?
+
+<expresion>		Soltera
+<se dice>		Káa kándichi inñá soltera, naku'in ka'ain xí'inña.
+<significa>		Allá está una soltera, voy a  hablarle.
+<puede decirse>	Káa kándichi inñá kuáan, naku'in ka'ain xí'inña.
+
+<expresion>		Soltero
+<se dice>		Yi'i ki soltero.
+<significa>		Yo soy soltero.
+<puede decirse>	Yi'i ki ta kuáaun.
+
+<expresion>		Sombrero
+<se dice>		Naku'in sikói sombreroi.
+<significa>		Voy a vender mi sombrero.
+<puede decirse>	Naku'in sikói ñasíni.
+
+<expresion>		Sombrilla
+<se dice>		Na kuni'i sombriya yó'o chi kotoka chií.
+<significa>		Me llevaré esta sombrilla para que no me moje.
+<puede decirse>	Na kuni'i tikoto sási sabi yó'o chi kotoka chií.
+
+<expresion>		Soplador
+<se dice>		Taxi soplador nda'ai.
+<significa>		Dame el soplador.
+<puede decirse>	Taxi nditibi ñu'u nda'ai.
+
+<expresion>		Suegro
+<se dice>		Akoó suegro kumíi.
+<significa>		No tengo suegro.
+<puede decirse>	Akoó siso kumíi.
+
+<expresion>		Suerte
+<se dice>		Kumíni suerte chi ba'aní kuchiñoi.
+<significa>		Tengo mucha suerte porque gané.
+<puede decirse>	Kumíni ndati chi ba'aní kuchiñoi.
+
+<expresion>		Suéter
+<se dice>		Taxi suéter káa na kundixi.
+<significa>		Dame ese suéter para que me lo ponga.
+<puede decirse>	Taxi tikoto káninda'a káa na kundixi.
+
+<expresion>		Suplente
+<se dice>		Iyo ta tata suplente be'e chíño.
+<significa>		El señor suplente se encuentra en la comisaría municipal.
+<puede decirse>	Iyo ta tata ndíso chíño obi be'e chíño.
+
+<expresion>		Tabique
+<se dice>		Nakaba ndi'i tabike.
+<significa>		Se cayeron todos los tabiques.
+<puede decirse>	Nakaba ndi'i ndo'o chi'yo.
+
+<expresion>		Taco
+<se dice>		Na kuxi in tako.
+<significa>		Voy a comer un taco.
+<puede decirse>	Na kuxi in sita tíbi.
+
+<expresion>		Tambora
+<se dice>		Sitoi kánira tambora.
+<significa>		Mi tío toca la tambora.
+<puede decirse>	Sitoi kánira no ñii tikuita ká'ma.
+
+<expresion>		Tanque (de gas)
+<se dice>		Lo'oní tanke íyo be'ei.
+<significa>		Está muy chico el tanque de gas que tengo en mi casa.
+<puede decirse>	Lo oní kaa ñú'u ndutáxixi íyo be'ei.
+
+<expresion>		Taxi
+<se dice>		Nandaai taksi ta ku'in tikán'an.
+<significa>		Me voy en ese taxi ahorita.
+<puede decirse>	Nandaai nólo'o xikó nayibi ta ku'in tikán'an.
+
+<expresion>		Té
+<se dice>		Kutóni ko'oi té.
+<significa>		Me gusta mucho tomar té.
+<puede decirse>	Kutóni ko'oi takuí bisi.
+
+<expresion>		Técnico
+<se dice>		Kixi in tékniko kanira túku sanayó táan.
+<significa>		Va a venir un técnico a vacunar nuestros ganados mañana.
+<puede decirse>	Kixi in ta kisatajná kiti kanira túku sanayó táan.
+
+<expresion>		Teja
+<se dice>		Náku'in satai teja ndaa sini be'ei.
+<significa>		Voy a comprar teja para hacer mi casa.
+<puede decirse>	Náku'in satai cliiyo ndaa sini be' ei.
+
+<expresion>		Tejamanil
+<se dice>		Náku'in satai tejamanil.
+<significa>		Voy a comprar tejamaniles.
+<puede decirse>	Naku'in satai bitikualí.
+
+<expresion>		Tejocote
+<se dice>		Kotoi kaxí tejokoce.
+<significa>		Me gusta comer tejocote.
+<puede decirse>	Kotoi kaxí tinomí.
+
+<expresion>		Tela
+<se dice>		Ku'in Tanda'yi satai in tela kundixi.
+<significa>		Voy a Tlapa a comprar una tela para vestir.
+<puede decirse>	Ku'in Tanda'yi satai tikotondika ka'no kundixi.
+
+<expresion>		Teléfono
+<se dice>		Náku'in ka'ain xin teléfono.
+<significa>		Voy a hablar por teléfono.
+<puede decirse>	Náku'in ka'ain xin tuchu kao'a.
+
+<expresion>		Telegrama
+<se dice>		Kixan in telegrama ña nominí noi.
+<significa>		Me llegó un telegrama muy urgente.
+<puede decirse>	Kixaa in tutu ña nominí noi.
+
+<expresion>		Televisión
+<se dice>		Libiní no telebisión.
+<significa>		La televisión esta muy bonita.
+<puede decirse>	Libiní no itón kana na'nána.
+
+<expresion>		Tenate
+<se dice>		Taxi tenate káa nákuñu'u sita.
+<significa>		Dame ese tenate para las tortillas.
+<puede decirse>	Taxi ndo'o káa nákuñu'u sita.
+
+<expresion>		Terminal
+<se dice>		Na kixira táan, ndátiira terminal.
+<significa>		Que venga mañana, lo espero en la terminal.
+<puede decirse>	Na kixira táan, ndátiira no kixaa no xiko nayibi.
+
+<expresion>		Terreno
+<se dice>		Naku'in cho'oi terrenoí.
+<significa>		Voy a medir mi terreno.
+<puede decirse>	Náku'in cho'oi ñu'ui.
+
+<expresion>		Tesorero
+<se dice>		Ta Luis ku tesorero ta ni'ira xu'ún.
+<significa>		Luis es el tesorero y tiene el dinero.
+<puede decirse>	Ta Luis ku ta ndisóchíño xin xu'ún ta ni'ira xu'ún.
+
+<expresion>		Tétanos
+<se dice>		Ndeéni ndó'o ña lo'o káa tétanos.
+<significa>		La niña está muy enferma de tétanos.
+<puede decirse>	Ndeéni ndó'o ña lo'o káa kue'e leke.
+
+<expresion>		Tienda
+<se dice>		Ko'yo tienda satayó tíbisi.
+<significa>		Vamos a la tienda a comprar dulces.
+<puede decirse>	Ko'yo no sikóna ñabisi satayó tíbisi.
+
+<expresion>		Tienda campesina
+<se dice>		Iyo ña tienda kampesina ñuuyo.
+<significa>		Hay una tienda campesina en nuestro pueblo.
+<puede decirse>	Iyo no kiá'bi ña'a ñuuyo.
+
+<expresion>		Tigre
+<se dice>		Náku'in kotoi tigre no kanakaari.
+<significa>		Voy a ver al tigre en su jaula.
+<puede decirse>	Naku'in kotoi ti kuiin no kanakaari.
+
+<expresion>		Tijeras
+<se dice>		Na ke'ei in siyoi ta na kan'taña'ai xin tijeras.
+<significa>		Voy a hacerme un vestido y lo voy a cortar con unas tijeras.
+<puede decirse>	Na ke'ei in siyoi ta na kan'taña'ai xin kaa xa'nta tikoto.
+
+<expresion>		Tijerilla
+<se dice>		In tijeriya niki'bi so'oi.
+<significa>		Una tijerilla se metió en mi oreja.
+<puede decirse>	In tikuita niki'bi so'oi.
+
+<expresion>		Tlacopete
+<se dice>		Xi nita'nta tlakopete káchiñoi.
+<significa>		Ya se rompió mi tlacopete con que trabajo.
+<puede decirse>	Xi nita'nta notió káchiñoi.
+
+<expresion>		Toalla
+<se dice>		Na satai in toaya xaá.
+<significa>		Voy a comprar una toalla nueva.
+<puede decirse>	Na satai in sa'ma ndóo ñiiyo xaá.
+
+<expresion>		Tocadiscos
+<se dice>		Nixa'ara kachíñora ta kundeéra satara in tokadlskos.
+<significa>		Fue a trabajar y pudo comprar un tocadiscos.
+<puede decirse>	Nixa'ara kachíñora ta kundeéra satara in kaa xíta yaa.
+
+<expresion>		Tornillo
+<se dice>		Na ndasakutui torniyo yó'o.
+<significa>		Voy a apretar este tomillo.
+<puede decirse>	Na ndasakutui kaa ndikutu yó'o.
+
+<expresion>		Toronja
+<se dice>		Na kan'tai toronja kaxiyó.
+<significa>		Voy a cortar toronja para que comamos.
+<puede decirse>	Na kan'tai tikuaá na'no kaxiyó.
+
+<expresion>		Torre (de iglesia)
+<se dice>		Libiní torre be'e ñu'u káa.
+<significa>		Está muy bonita la torre de la iglesia.
+<puede decirse>	Libiní sini be'e ñu'u káa.
+
+<expresion>		Torta
+<se dice>		Na satai in torta kuxiyó.
+<significa>		Voy a comprar una torta para comer.
+<puede decirse>	Na satai in sitaba'a ña chisona kuñu noo kuxiyó.
+
+<expresion>		Tortuga
+<se dice>		Kueení xíka ti tortuga.
+<significa>		Camina muy despacio la tortuga.
+<puede decirse>	Kueení xíka ti tichíkuayi.
+
+<expresion>		Tosferina
+<se dice>		Na kumií u'un kuiya ndeé xindo'oi tosferina.
+<significa>		Cuando tenía cinco años me  enfermé de tosferina.
+<puede decirse>	Na kumií u' un kuiya ndeé xindo' oi sayikaa.
+
+<expresion>		Tototepec
+<se dice>		Naku'in kotonda'yai Ñuu Tototepec.
+<significa>		Voy a ver el pueblo de Tototepec.
+<puede decirse>	Naku'in kotonda'yai Ñuu Yosónoní.
+
+<expresion>		Tractor
+<se dice>		No traktor kamaka ta' binó ñu' u.
+<significa>		El tractor agrícola barbecha más rápido.
+<puede decirse>	No itón ta'biñu'u kamaka ta'binó ñu'u.
+
+<expresion>		Traje
+<se dice>		Na kundixi traje yó'o.
+<significa>		Me voy a poner mi traje.
+<puede decirse>	Na kundixi tikoto ña in taku yó'o.
+
+<expresion>		Tren
+<se dice>		No tuún ku tren, ta kua'anu káa.
+<significa>		El tren es negro, y va allá.
+<puede decirse>	No tuún ku iton kua'aníxa'a tíbini'ni, ta kua'anu káa.
+
+<expresion>		Trío
+<se dice>		Ña "Be'e ndusu kiú'un” xíta in trío.
+<significa>		En ”La voz de la montaña” toca un trío.	
+<puede decirse>	Ña "Be'e ndusu kiú'un" xíta oni taá.
+
+<expresion>		Trofeo
+<se dice>		Ki'in in trofeo.
+<significa>		Me gané un trofeo.
+<puede decirse>	Ki'in in kaa ña kí'in na sasikí.
+
+<expresion>		Troje
+<se dice>		Xichutúni troje yibái.
+<significa>		Ya se llenó la troje de mi papá.
+<puede decirse>	Xichutúni yaka yibái.
+
+<expresion>		Tronco
+<se dice>		Xi nita'yi ndi'i tronko kándi'i káa.
+<significa>		Ya se pudrió el tronco que está allá.
+<puede decirse>	Xi nita'yi ndi'i ndu'u kándi'i káa.
+
+<expresion>		Tubo
+<se dice>		Yatin be'ei íyo in tubo takuí.
+<significa>		Cerca de mi casa hay un tubo de agua.
+<puede decirse>	Yatin be'ei íyo kaa ña ndiso takuí.
+
+<expresion>		Uniforme
+<se dice>		Na kundixi uniforméi.
+<significa>		Voy a ponerme mi uniforme.
+<puede decirse>	Na kundixi tikocoi in taku yó'o.
+
+<expresion>		Unir
+<se dice>		Na kasaunir tikoto yó'o.
+<significa>		Voy a unir esta ropa.
+<puede decirse>	Na chitá'ai tikoto yó'o.
+
+<expresion>		Uña
+<se dice>		Xi naniní uñai.
+<significa>		Ya están bien largas mis uñas.
+<puede decirse>	Xi naniní chíi.
+
+<expresion>		Usar
+<se dice>		Na kasa usar yi nduxa yó'o.
+<significa>		Voy a usar este huarache.
+<puede decirse>	Na ku'u nduxa yó'o xa'ai.
+
+<expresion>		Utensilio
+<se dice>		Taxi utensilio kan nda'ai.
+<significa>		Dame ese utensilio.
+<puede decirse>	Taxi nda'áchiño kan nda'ai.
+
+<expresion>		Uvas
+<se dice>		Na satái uba kaxiyó.
+<significa>		Voy a comprar uvas para comer.
+<puede decirse>	Na satai polí ba'a kaxiyó.
+
+<expresion>		Vacante
+<se dice>		Iyo in bakante noó kunina in nayibí.
+<significa>		Hay una vacante donde se  solicita una persona.
+<puede decirse>	Iyo in chiño ndú'u mií kunina in nayibí.
+
+<expresion>		Vaciar
+<se dice>		Kasabasiarña ini kisi.
+<significa>		Vacíalo en la olla.
+<puede decirse>	Koyoña ini kisi.
+
+<expresion>		Vacilar
+<se dice>		Ña lo'o káa kisa basilarniña yi'i.
+<significa>		Esa muchacha me vacila mucho.
+<puede decirse>	Ña lo'o káa kusikiníña yi'i.
+
+<expresion>		Vacunar
+<se dice>		Naku'in xin sa'yai naki'ina bakuna.
+<significa>		Voy con mis hijos a vacunarlos.
+<puede decirse>	Na ku'in xin sa'yai naki'ina tuku.
+
+<expresion>		Vado
+<se dice>		Na ya'ai chi bado yó'o.
+<significa>		Voy a pasar por este vado.
+<puede decirse>	Na ya'ai chi no kuba'a nama ya'a takuí no yó'o.
+
+<expresion>		Valiente
+<se dice>		Ta tata káa baliente inira.
+<significa>		Ese hombre es muy valiente.
+<puede decirse>	Ta tata káa ndakuní inira.
+
+<expresion>		Válvula	
+<se dice>		Kuni in bálbula ña ya'a takuí.
+<significa>		Quiero una válvula de paso del agua.
+<puede decirse>	Kuni in ña nu yá'a takuí.
+
+<expresion>		Vaquero
+<se dice>		Na ku'un ta bakero kundaara sanai.
+<significa>		Que vaya el vaquero a cuidar mis animales.
+<puede decirse>	Na ku'un ta ndáa kiti kundaara sanai.
+
+<expresion>		Vara
+<se dice>		Taxi bara káa nda'ai.
+<significa>		Dame esa vara.
+<puede decirse>	Taxi iton káni káa nda'ai.
+
+<expresion>		Varilla
+<se dice>		Xi ndi'i bariya kuba'a be'ei.
+<significa>		Ya se acabó la varilla para  hacer mi casa.
+<puede decirse>	Xi ndi'i kaa náni kuba'a be'ei.
+
+<expresion>		Vaselina
+<se dice>		Kúni baselina ki'bi siníi.
+<significa>		Quiero vaselina paira mis  cabellos.
+<puede decirse>	Kúni sa'an támi xán'an ki'bi siníi.
+
+<expresion>		Vecino
+<se dice>		Besinoi ku in ta ké'e be'e.
+<significa>		Mi vecino es albañil.
+<puede decirse>	Ta iyo yatin nu íyoi ku in ta ké'e be'e.
+
+<expresion>		Vejiga
+<se dice>		¿Akusikí bejiga xún'un?
+<significa>		¿Voy a jugar vejiga contigo?
+<puede decirse>	¿Akusikí lamba xún'un?
+
+<expresion>		Vela
+<se dice>		Na kun'in satai bela.
+<significa>		Voy a comprar vela.
+<puede decirse>	Na kun'in satai timá.
+
+<expresion>		Veladora
+<se dice>		Sataún in beladora kun'un xín'inyo be'e ñu'un.
+<significa>		Compras una veladora para  llevar a la iglesia.
+<puede decirse>	Sataún in ñima xíxi kun'un xín'inyo be'e ñu'un.
+
+<expresion>		Velar
+<se dice>		Kuá'an kasabelar ña'ún.
+<significa>		Vete a velarla.
+<puede decirse>	Kuá'an ndakuatindaa ña'ún.
+
+<expresion>		Venda
+<se dice>		Taxi benda kan na kunu'ni nda'i.
+<significa>		Dame esa venda para que me amarre mi mano.
+<puede decirse>	Taxi tikoto ndási no tákue'ena kan na kunu'ni nda'i.
+
+<expresion>		Veneno
+<se dice>		Tata káa xi'ira beneno.
+<significa>		Ese señor tomó veneno.
+<puede decirse>	Tata káa xi'ira tatán xá'ni.
+
+<expresion>		Venta
+<se dice>		Ba'aní kumií benta.
+<significa>		Tengo mucha venta.
+<puede decirse>	Ba'aní sikoí.
+
+<expresion>		Ventana
+<se dice>		Nakuiná bentana na kil'bi tachi chi i'niní.
+<significa>		Abre la ventana para que entre aire porque hace mucha calor.
+<puede decirse>	Nakuiná yabi kandíka be'e na ki'bi tachi chi i'niní.
+
+<expresion>		Ventilador
+<se dice>		Na chikai tachi noi xin bentilador yó'o.
+<significa>		Me voy a echar aire con este ventilador.
+<puede decirse>	Na chikai tachi noi xin tikuita chikáa tachi yó'o.
+
+<expresion>		Verde
+<se dice>		Ña kaá ku taku berde.
+<significa>		Ese color es verde.
+<puede decirse>	Ña kaá ku taku kuíi yúku.
+
+<expresion>		Verdolaga
+<se dice>		Naku'in satai berdolaga kaxiyó.
+<significa>		Voy a comprar verdolagas para comer.
+<puede decirse>	Naku'in satai yiba chikiton kaxiyó.
+
+<expresion>		Verdura
+<se dice>		Na kaxíi berdura.
+<significa>		Voy a comer verduras.
+<puede decirse>	Na kaxíi yiba.
+
+<expresion>		Vestido
+<se dice>		Taxi bestidoi na kundixi.
+<significa>		Dame mi vestido para que me lo ponga.
+<puede decirse>	Taxi siyoi na kundixi.
+
+<expresion>		Viaje
+<se dice>		Naku'in in biaje ta kixai.
+<significa>		Voy a un viaje y luego vengo.
+<puede decirse>	Naku'in xin tu iton ndiso na yibi ta kixaai.
+
+<expresion>		Víbora
+<se dice>		Tiin in bíbora xa'ái.
+<significa>		Me picó una víbora.
+<puede decirse>	Tiin in koo kaa xa'ái.
+
+<expresion>		Vidrio
+<se dice>		Nina bidrio chikaara yé'era.
+<significa>		El puso puro vidrio en su puerta.
+<puede decirse>	Nina yuu ta'ta chikaara yé'era.
+
+<expresion>		Viento
+<se dice>		Xikaní biento.
+<significa>		Corre mucho viento.
+<puede decirse>	Xikaní tachi.
+
+<expresion>		Violín
+<se dice>		Na tabai yaa xin biolin.
+<significa>		Voy a tocar una canción con el violín.
+<puede decirse>	Na tabai yaa xin no ká'a tuchu yo'o.
+
+<expresion>		Virgen
+<se dice>		Libiní birjen ña íyo be'eñu'u.
+<significa>		La virgen que está en la iglesia está muy bonita.
+<puede decirse>	Libiní dióxi ña íyo be'eñu'u.
+
+<expresion>		Viruela
+<se dice>		Ndeéni ndó'o sa'yai biruela.
+<significa>		Mi hijo está muy enfermo de viruela.
+<puede decirse>	Ndeéni ndó'o sa'yai ndi'i kuá'a.
+
+<expresion>		Visita
+<se dice>		Náku'in in bisita no sitoi.
+<significa>		Voy a hacerle una visita a mi tío.
+<puede decirse>	Náku'in kotoi sitoi.
+
+<expresion>		Vista
+<se dice>		Ki'biní bistai.
+<significa>		Me duele mucho mi vista.
+<puede decirse>	Ki'biní ti noói.
+
+<expresion>		Vitamina
+<se dice>		Na ko'oi bitamina.
+<significa>		Voy a tomar vitamina.
+<puede decirse>	Na ko'oi tajna ña koo ndeéi.
+
+<expresion>		Viuda
+<se dice>		Ña ña'a káa kian biuda.
+<significa>		Esa mujer es viuda.
+<puede decirse>	Ña ña'a káa kian ña nindoo mitu'u.
+
+<expresion>		Vivir
+<se dice>		Yi'i kisabibir in be'e.
+<significa>		Yo vivo en una casa.
+<puede decirse>	Yi'i íyoi in be'e.
+
+<expresion>		Volar
+<se dice>		Ti saa káa akibíka kasabolari.
+<significa>		Ese pájaro ya no puede volar.
+<puede decirse>	Ti saa káa akibíka ndachíri.
+
+<expresion>		Volcán
+<se dice>		Niya'andi in ñuu yatin xa'a bolkán.
+<significa>		Pasamos por un pueblo que está cerca de un volcán.
+<puede decirse>	Niya'andi in ñuu yatin xa'a yuku kaxín.
+
+<expresion>		Volumen
+<se dice>		Sandáa bolumen no itón xíta.
+<significa>		Súbele volumen al radio.
+<puede decirse>	Sandáa ndusu no itón xíta.
+
+<expresion>		Vómito
+<se dice>		Talo'o káa kumira bómito.
+<significa>		Ese muchacho tiene vómito.
+<puede decirse>	Talo'o káa ndúxanira.
+
+<expresion>		Yegua
+<se dice>		Náku'in satai in yegua.
+<significa>		Voy a comprar una yegua.
+<puede decirse>	Náku'in satai in tiba'así'i.
+
+<expresion>		Yema
+<se dice>		Kutoní kaxi yema ndibi.
+<significa>		Me gusta la yema del huevo.
+<puede decirse>	Kutoní kaxi ña kuaán ini ndibi.
+
+<expresion>		Yerbabuena
+<se dice>		Niyichi ndi'i yerbabuena chi'i.
+<significa>		Se secó toda la yerbabuena que sembré.
+<puede decirse>	Niyichi ndi'i minokastíla chi'i.
+
+<expresion>		Yerno
+<se dice>		Iyo in yernoi.
+<significa>		Tengo un yerno.
+<puede decirse>	Iyo in kasái.
+
+<expresion>		Yeso
+<se dice>		Libiní yeso yaa.
+<significa>		Esta muy bonito el yeso blanco.
+<puede decirse>	Libiní yuu yáa bita yaa.
+
+<expresion>		Yoyo
+<se dice>		Na satai yoyo kusikí.
+<significa>		Voy a comprarme un yoyo para jugar.
+<puede decirse>	Na satai in ti tikuita nákaa yi'ba ndée toko kusikí.
+
+<expresion>		Yugo
+<se dice>		Nita'no yugo ta'bí sindiki sanai.
+<significa>		Se quebró el yugo de mi yunta.
+<puede decirse>	Nita'no no yoko ta'bí sindiki sanai.
+
+<expresion>		Yunta
+<se dice>		Okondeéka yunta sanai ta'birí.
+<significa>		Ya no aguanta mi yunta a  barbechar.
+<puede decirse>	Okondeéka sindiki sanai ta'birí.
+
+<expresion>		Zacate
+<se dice>		Ndi'i sakate kaxi kuáyi sanai.
+<significa>		Se acabó el zacate para mi caballo.
+<puede decirse>	Ndi'i ndáyo'o kaxi kuáyi sanai.
+
+<expresion>		Zanahoria
+<se dice>		Naku'in satai sanaoria.
+<significa>		Voy a comprar zanahoria.
+<puede decirse>	Naku'in satai ña'mikuaá.
+
+<expresion>		Zanate
+<se dice>		Tu'uní sanate yutu.
+<significa>		Los zanates arrancan mucho la milpa.
+<puede decirse>	Tu'uní saandaá yutu.
+
+<expresion>		Zanja
+<se dice>		Nitani sanja no yá'a takuí.
+<significa>		Se desbarató la zanja donde pasa el agua.
+<puede decirse>	Nitani chichi no yá'a takuí.
+
+<expresion>		Zapatería
+<se dice>		Naku'in sapatería ta kixai.
+<significa>		Voy a la zapatería y regreso.
+<puede decirse>	Naku'in no kiá'bi nduxa ba'a sa'bi ñii xata ta kixai.
+
+<expresion>		Zapatero
+<se dice>		Naku'in no ta sapatero.
+<significa>		Voy a ver al zapatero.
+<puede decirse>	Naku'in noi ta ndásaba'a nduxa sa'bi ñii xata.
+
+<expresion>		Zapato
+<se dice>		Na tain sapato xa'ai taku'in in chiño.
+<significa>		Me voy a poner mis zapatos para que vaya a un mandado.
+<puede decirse>	Na tain nduxa sa'bi ñii ba'a xata xa'ai ta ku'in in chiño.
+
+<expresion>		Zapote
+<se dice>		Na kaxi sapote yó'o.
+<significa>		Voy a comerme este zapote.
+<puede decirse>	Na kaxi ndóko tuún yó'o.
+
+<expresion>		Zarzamora
+<se dice>		Kuá'an kindaa sarsamora kaxiún.
+<significa>		Vete a cortar zarzamora para que comas.
+<puede decirse>	Kuá'an kindaa tiñúñu kaxiún.
+
+<expresion>		Zócalo
+<se dice>		Ndáti yó'o sókalo xikuaá.
+<significa>		Te espero en el zócalo en la tarde.
+<puede decirse>	Ndáti yó'o ma'ñú ñuu xikuaá.
+
+<expresion>		Zoológico
+<se dice>		Ñuuko'yó xiníi in solójiko ka'noní.
+<significa>		En México vi un zoológico bien grande.
+<puede decirse>	Ñuuko'yó xiníi in be'e nu ñú'u kua'aní kiti ka'noní.
+
+<expresion>		Zopilote
+<se dice>		Xaxiní sopilote kuñu.
+<significa>		El zopilote come mucha carne.
+<puede decirse>	Xaxiní npilo kuñu.
+
+<expresion>		Zorra
+<se dice>		Ndeéni xaxi sorra nduxú.
+<significa>		La zorra come muchas gallinas.
+<puede decirse>	Ndeéni xaxi yikuí nduxú.
+
+<expresion>		Zorrillo
+<se dice>		Xá'ani ti sorriyo.
+<significa>		Apesta muy feo el zorrillo.
+<puede decirse>	Xá'ani ti ti'ín.
+
+<expresion>		Zurdo
+<se dice>		Talo'o káa kachíñora xin nda'a surdo.
+<significa>		Ese muchacho trabaja con la mano zurda.
+<puede decirse>	Talo'o káa kachíñora xin nda'a itin.
