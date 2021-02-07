@@ -31,7 +31,7 @@ def consultarcorpusmixteco():
 
 
 def obteneroracionespaniol(idoracion):
-    print("enetrando a obetener oracion en español")
+    print("entrando a obetener oracion en español")
     global conn
     cursor=conn.cursor()
     cursor.execute("select*from corpusespaniol where Idcorpusespaniol=%s",(idoracion,))
