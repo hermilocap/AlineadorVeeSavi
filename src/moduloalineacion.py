@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-__autor__="Hermilo Santiago Benito"
-
 import mysql.connector
 
 #conexion a la base de datos
@@ -33,7 +31,7 @@ def consultarcorpusmixteco():
 
 
 def obteneroracionespaniol(idoracion):
-    print("enetrando a obetener oracion en español")
+    print("enetrando a obetener oracion en espaÃ±ol")
     global conn
     cursor=conn.cursor()
     cursor.execute("select*from corpusespaniol where Idcorpusespaniol=%s",(idoracion,))
