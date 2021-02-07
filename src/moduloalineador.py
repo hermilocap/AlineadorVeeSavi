@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-__autor__="Hermilo Santiago Benito"
 #import sqlite3
 import math
 from itertools import izip
@@ -191,7 +190,6 @@ def principal(rutasalida):
         cuentaalineacion+=1
         texto=u"#espaniol##mixteco##"+x[0]+"##"+x[1]+'\n'
         archivo.write(texto)
-        print("esto va ala bd"+str(cuentaalineacion))
         
     #archivo.write(" "+str(totalelementos)+" ")
     archivo.close()
