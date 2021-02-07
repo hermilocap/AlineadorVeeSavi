@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-__autor__="Hermilo Santiago Benito"
 import sqlite3
 from itertools import izip
 import mysql.connector
@@ -116,7 +115,7 @@ def consultarTablaPrealineados():
     listaprealineados=[]
     
     for fila in datos:
-        print("prealineados en español")
+        print("prealineados en espaÃ±ol")
         print(str(fila))
         listaprealineados.append(fila)
         
@@ -177,8 +176,8 @@ def consultarTablaAlineadosmixteco():
 
 def calcularprecision(nalcorrecta,nalrecuperadas):
     """ PRECISION
-    Número de alineaciones correctas
-    Número de alineaciones propuestas	
+    NÃºmero de alineaciones correctas
+    NÃºmero de alineaciones propuestas	
     """
     precision=100*nalcorrecta/nalrecuperadas
     return precision
@@ -186,8 +185,8 @@ def calcularprecision(nalcorrecta,nalrecuperadas):
 def calclularcobertura(nalcorrecta,nalpertrec):
     """
     COBERTTURA
-    Número de alineaciones correctas
-    Número de alineaciones de referencia=gual los ya alineados
+    NÃºmero de alineaciones correctas
+    NÃºmero de alineaciones de referencia=gual los ya alineados
     """
     cobertura=100*nalcorrecta/nalpertrec
     return cobertura
@@ -206,7 +205,7 @@ def evaluaralineador(rutaeval):
     totalrecuperadas=0
     
     listacorrectos=[]
-    listaincorrectos=["los niños son altos","na kuaxi"]
+    listaincorrectos=["los niÃ±os son altos","na kuaxi"]
     
     for i,d in zip(realineaciones,reprealineados):
         print("entrando a comparar en mixteco")
