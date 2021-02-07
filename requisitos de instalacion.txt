@@ -1,10 +1,9 @@
-Se recomienda convertir su archivo de texto a utf8.
+1. Descargar e Instalar pyhton 2.7.10
+2. Descargar e Instalar MySQL version 5.5.24
+3. Descargar e Instalar conector mysql con python 2.7.10
+4. Instalar pip.
+5. Instalar tkinter ejecutar el siguiente comando pip install tkintertable. Tkinter es para interfaz grafica.
+6. Restaurar base de datos (crear nueva base de dato con el titulo "bdveesavi" y tablas) forma manual con el script de bdveesavi.sql en MYSQL.
+7. Ejecutar el archivo principal "alineadorveesavi.py" del proyecto "AlineadorVeeSavi".
 
-1. instalar pyhton 2.7.10
-2. instalar tkinter
-pip install tkintertable
-3. instalar MySQL version 5.5.24
-4. Restaurar (crear base de dato con el titulo "bdveesavi" y tablas) con el script de bdveesavi.sql en MYSQL
-5. Ejecutar el archivo principal "alineadorveesavi.py" del proyecto "AlineadorVeeSavi" 
-
-
+Para realizar las pruebas se recomienda convertir su archivo texto paralelo a formato utf8.
