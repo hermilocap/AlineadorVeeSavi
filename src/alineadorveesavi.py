@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-__autor__="Hermilo Santiago Benito"
 
 from Tkinter import *
 import tkFileDialog
@@ -60,7 +59,7 @@ def limpiaralineacion():
 def limpiarpreprocesado():
     modulopreprocesamiento.limpiartablacorpusespaniol()
     modulopreprocesamiento.limpiartablacorpusmixteco()
-    tkMessageBox.showinfo("Información","Los textos se han limpiado")
+    tkMessageBox.showinfo("InformaciÃ³n","Los textos se han limpiado")
     
 def alinear():
    global sourcecorpus
@@ -88,7 +87,7 @@ def alinear():
     tkMessageBox.showinfo("Alinear","Textos alineados correctamente")
        
 
-ventana.title("Sistema de alineación automático español-mixteco VE'E SAVI")
+ventana.title("Sistema de alineaciÃ³n automÃ¡tico espaÃ±ol-mixteco VE'E SAVI")
 
 #ventana.config(bg="#c1bfea")
 #ventana.geometry("500x300")
@@ -98,7 +97,7 @@ ventana.winfo_screenwidth()
 Arial = tkFont.Font(family="Arial", size=12, weight="bold")
 
 
-rutaespnproc_label = Label(ventana,text="Archivo de texto en español:",font=Arial)
+rutaespnproc_label = Label(ventana,text="Archivo de texto en espaÃ±ol:",font=Arial)
 rutaespnproc_label.grid(row=0, column=0)
 
 textoespn_str = StringVar()
